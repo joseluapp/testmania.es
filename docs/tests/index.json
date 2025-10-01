@@ -56,6 +56,42 @@
     {
       "id": "Cálculo mental rápido",
       "url": "./tests/calculo_mental.json"
+    },
+    {
+      "id": "Videojuegos",
+      "url": "./tests/videojuegos.json"
+    },
+    {
+      "id": "Gastronomía internacional",
+      "url": "./tests/gastronomia_internacional.json"
+    },
+    {
+      "id": "Refranes españoles",
+      "url": "./tests/refranes_espanoles.json"
+    },
+    {
+      "id": "Cuerpo humano",
+      "url": "./tests/cuerpo_humano.json"
+    },
+    {
+      "id": "Animales del mundo",
+      "url": "./tests/animales_mundo.json"
+    },
+    {
+      "id": "Preguntas para niños",
+      "url": "./tests/preguntas_ninos.json"
+    },
+    {
+      "id": "Mitología griega y romana",
+      "url": "./tests/mitologia_griega_romana.json"
+    },
+    {
+      "id": "Dibujos animados",
+      "url": "./tests/dibujos_animados.json"
+    },
+    {
+      "id": "Monumentos del mundo",
+      "url": "./tests/monumentos_mundo.json"
     }
   ]
 
