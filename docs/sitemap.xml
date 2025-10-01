@@ -52,4 +52,48 @@
     <loc>https://www.testmania.es/test/historia-de-espana</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.testmania.es/test/series-de-television</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/calculo-mental-rapido</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/videojuegos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/gastronomia-internacional</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/refranes-espanoles</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/cuerpo-humano</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/animales-del-mundo</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/preguntas-para-ninos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/mitologia-griega-y-romana</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/dibujos-animados</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.testmania.es/test/monumentos-del-mundo</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
