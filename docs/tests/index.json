@@ -48,6 +48,10 @@
     {
       "id": "Historia de España",
       "url": "./tests/historia_espana.json"
+    },
+    {
+      "id": "Series de televisión",
+      "url": "./tests/seriestv.json"
     }
   ]
 
