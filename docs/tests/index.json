@@ -52,6 +52,10 @@
     {
       "id": "Series de televisión",
       "url": "./tests/seriestv.json"
+    },
+    {
+      "id": "Cálculo mental rápido",
+      "url": "./tests/calculo_mental.json"
     }
   ]
 
