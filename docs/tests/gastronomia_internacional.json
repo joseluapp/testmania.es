@@ -1,55 +1,505 @@
 {
   "titulo": "Gastronomía internacional",
   "preguntas": [
-    { "texto": "¿País de origen del sushi?", "opciones": ["China","Japón","Corea del Sur","Vietnam"], "correcta": 2 },
-    { "texto": "¿Ingrediente principal del hummus tradicional?", "opciones": ["Lentejas","Garbanzos","Habas","Guisantes"], "correcta": 2 },
-    { "texto": "¿De qué país es originaria la paella?", "opciones": ["España","Italia","Portugal","Grecia"], "correcta": 1 },
-    { "texto": "¿Qué cereal es base del Bibimbap coreano?", "opciones": ["Arroz","Trigo","Cebada","Quinoa"], "correcta": 1 },
-    { "texto": "¿Qué pescado se usa clásicamente en el ceviche peruano?", "opciones": ["Corvina","Salmón","Bacalao","Atún"], "correcta": 1 },
-    { "texto": "¿Qué país es famoso por el kimchi?", "opciones": ["Japón","Corea del Sur","China","Tailandia"], "correcta": 2 },
-    { "texto": "¿Cuál es el queso azul francés de Auvernia?", "opciones": ["Roquefort","Gorgonzola","Stilton","Cabrales"], "correcta": 1 },
-    { "texto": "¿De qué país proviene el goulash?", "opciones": ["Hungría","Austria","Alemania","Polonia"], "correcta": 1 },
-    { "texto": "¿Cuál es la pasta italiana en forma de tubos?", "opciones": ["Penne","Spaghetti","Fusilli","Tagliatelle"], "correcta": 1 },
-    { "texto": "¿Principal legumbre del falafel?", "opciones": ["Soja","Garbanzos","Lentejas","Habas"], "correcta": 2 },
-    { "texto": "¿Salsa mexicana a base de aguacate?", "opciones": ["Salsa roja","Guacamole","Pico de gallo","Mole"], "correcta": 2 },
-    { "texto": "¿País de origen del tiramisú?", "opciones": ["Italia","Francia","Suiza","España"], "correcta": 1 },
-    { "texto": "¿Qué especia da color al curry amarillo tailandés?", "opciones": ["Azafrán","Cúrcuma","Pimentón","Comino"], "correcta": 2 },
-    { "texto": "¿Origen de la moussaka?", "opciones": ["Grecia","Turquía","Líbano","Bulgaria"], "correcta": 1 },
-    { "texto": "¿Qué grano se usa para hacer polenta?", "opciones": ["Arroz","Maíz","Trigo sarraceno","Mijo"], "correcta": 2 },
-    { "texto": "¿De dónde es el queso halloumi?", "opciones": ["Chipre","Italia","Francia","Grecia"], "correcta": 1 },
-    { "texto": "¿Qué es el miso?", "opciones": ["Pasta de soja fermentada","Té verde","Salsa picante","Algas deshidratadas"], "correcta": 1 },
-    { "texto": "¿Plato nacional de Reino Unido?", "opciones": ["Fish and chips","Paella","Coq au vin","Pierogi"], "correcta": 1 },
-    { "texto": "¿De qué país es la feijoada?", "opciones": ["Argentina","Brasil","Chile","Uruguay"], "correcta": 2 },
-    { "texto": "¿Qué carne se usa típicamente en el Wiener Schnitzel?", "opciones": ["Pollo","Ternera","Cerdo","Cordero"], "correcta": 2 },
-    { "texto": "¿Qué empanadillas rellenas son típicas en Japón?", "opciones": ["Ravioli","Gyoza","Pierogi","Manti"], "correcta": 2 },
-    { "texto": "¿En qué país se originó el queso cheddar?", "opciones": ["Estados Unidos","Reino Unido","Irlanda","Canadá"], "correcta": 2 },
-    { "texto": "¿Qué bebida es el sake?", "opciones": ["Vino de arroz","Cerveza de trigo","Licor de maíz","Sidra"], "correcta": 1 },
-    { "texto": "¿Qué país popularizó el mole poblano?", "opciones": ["Perú","México","Bolivia","Colombia"], "correcta": 2 },
-    { "texto": "¿Ciudad francesa asociada a la bouillabaisse?", "opciones": ["Niza","Marsella","Toulouse","Burdeos"], "correcta": 2 },
-    { "texto": "¿Qué país es origen del plato pho?", "opciones": ["China","Corea del Sur","Tailandia","Vietnam"], "correcta": 4 },
-    { "texto": "¿Qué pasta italiana tiene forma de mariposa?", "opciones": ["Spaghetti","Penne","Bucatini","Farfalle"], "correcta": 4 },
-    { "texto": "¿En qué país se creó el croissant moderno?", "opciones": ["Austria","Suiza","Bélgica","Francia"], "correcta": 4 },
-    { "texto": "¿Cuál es el queso español de La Mancha?", "opciones": ["Gruyère","Pecorino","Idiazábal","Manchego"], "correcta": 4 },
-    { "texto": "¿Qué salsa lleva yema y mantequilla clarificada?", "opciones": ["Bechamel","Pesto","Marinara","Holandesa"], "correcta": 4 },
-    { "texto": "¿Qué es la tempura?", "opciones": ["Sopa de miso","Arroz avinagrado","Fermentado de soja","Fritura ligera"], "correcta": 4 },
-    { "texto": "¿De qué país proviene el borscht?", "opciones": ["Alemania","Rumanía","Chequia","Ucrania"], "correcta": 4 },
-    { "texto": "¿Qué fruta es base del chutney clásico?", "opciones": ["Naranja","Piña","Papaya","Mango"], "correcta": 4 },
-    { "texto": "¿Qué pasta se usa tradicionalmente en la carbonara?", "opciones": ["Maccheroni","Farfalle","Tortellini","Spaghetti"], "correcta": 4 },
-    { "texto": "¿Qué grano es base del tabulé?", "opciones": ["Arroz","Mijo","Quinoa","Bulgur"], "correcta": 4 },
-    { "texto": "¿Qué país popularizó el poutine?", "opciones": ["Estados Unidos","Francia","Bélgica","Canadá"], "correcta": 4 },
-    { "texto": "¿Qué es el nori?", "opciones": ["Pescado seco","Salsa picante","Fideo de arroz","Alga comestible"], "correcta": 4 },
-    { "texto": "¿Qué especia es el azafrán?", "opciones": ["Raíz","Hoja","Semilla","Estigma floral"], "correcta": 4 },
-    { "texto": "¿Qué dulce es típico de Turquía?", "opciones": ["Cannoli","Churro","Sacher","Baklava"], "correcta": 4 },
-    { "texto": "¿Qué bebida fermentada es el kefir?", "opciones": ["Vino","Cerveza","Sidra","Leche fermentada"], "correcta": 4 },
-    { "texto": "¿De dónde es originaria la focaccia?", "opciones": ["Sicilia","Lacio","Piamonte","Liguria"], "correcta": 4 },
-    { "texto": "¿Qué pescado se sala para hacer bacalhau?", "opciones": ["Merluza","Pez espada","Sardina","Bacalao"], "correcta": 4 },
-    { "texto": "¿Qué pasta es rellena y con forma de anillo?", "opciones": ["Ravioli","Agnolotti","Cavatelli","Tortellini"], "correcta": 4 },
-    { "texto": "¿Qué chile seco es base del mole negro?", "opciones": ["Guajillo","Chipotle","Pasilla","Chilhuacle negro"], "correcta": 4 },
-    { "texto": "¿Qué país es famoso por el laksa?", "opciones": ["India","Filipinas","Japón","Malasia"], "correcta": 4 },
-    { "texto": "¿Qué técnica japonesa fermenta soja y trigo para una salsa?", "opciones": ["Mirin","Dashi","Ponzu","Shōyu"], "correcta": 4 },
-    { "texto": "¿Qué es el paneer?", "opciones": ["Embutido","Pan árabe","Mantequilla","Queso fresco"], "correcta": 4 },
-    { "texto": "¿Qué pasta larga es más gruesa que el spaghetti?", "opciones": ["Vermicelli","Capellini","Fettuccine","Bucatini"], "correcta": 4 },
-    { "texto": "¿Qué postre argentino lleva capas de hojaldre y dulce de leche?", "opciones": ["Milhojas francés","Chocotorta","Alfajor","Rogel"], "correcta": 4 },
-    { "texto": "¿Cuál es el queso italiano de suero usado en postres?", "opciones": ["Mascarpone","Provolone","Asiago","Ricotta"], "correcta": 4 }
+    {
+      "texto": "¿País de origen del sushi?",
+      "opciones": [
+        "China",
+        "Japón",
+        "Corea del Sur",
+        "Vietnam"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Ingrediente principal del hummus tradicional?",
+      "opciones": [
+        "Lentejas",
+        "Garbanzos",
+        "Habas",
+        "Guisantes"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿De qué país es originaria la paella?",
+      "opciones": [
+        "España",
+        "Italia",
+        "Portugal",
+        "Grecia"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué cereal es base del Bibimbap coreano?",
+      "opciones": [
+        "Arroz",
+        "Trigo",
+        "Cebada",
+        "Quinoa"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué pescado se usa clásicamente en el ceviche peruano?",
+      "opciones": [
+        "Corvina",
+        "Salmón",
+        "Bacalao",
+        "Atún"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué país es famoso por el kimchi?",
+      "opciones": [
+        "Japón",
+        "Corea del Sur",
+        "China",
+        "Tailandia"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es el queso azul francés de Auvernia?",
+      "opciones": [
+        "Roquefort",
+        "Gorgonzola",
+        "Stilton",
+        "Cabrales"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿De qué país proviene el goulash?",
+      "opciones": [
+        "Hungría",
+        "Austria",
+        "Alemania",
+        "Polonia"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es la pasta italiana en forma de tubos?",
+      "opciones": [
+        "Penne",
+        "Spaghetti",
+        "Fusilli",
+        "Tagliatelle"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Principal legumbre del falafel?",
+      "opciones": [
+        "Soja",
+        "Garbanzos",
+        "Lentejas",
+        "Habas"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Salsa mexicana a base de aguacate?",
+      "opciones": [
+        "Salsa roja",
+        "Guacamole",
+        "Pico de gallo",
+        "Mole"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿País de origen del tiramisú?",
+      "opciones": [
+        "Italia",
+        "Francia",
+        "Suiza",
+        "España"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué especia da color al curry amarillo tailandés?",
+      "opciones": [
+        "Azafrán",
+        "Cúrcuma",
+        "Pimentón",
+        "Comino"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Origen de la moussaka?",
+      "opciones": [
+        "Grecia",
+        "Turquía",
+        "Líbano",
+        "Bulgaria"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué grano se usa para hacer polenta?",
+      "opciones": [
+        "Arroz",
+        "Maíz",
+        "Trigo sarraceno",
+        "Mijo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿De dónde es el queso halloumi?",
+      "opciones": [
+        "Chipre",
+        "Italia",
+        "Francia",
+        "Grecia"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué es el miso?",
+      "opciones": [
+        "Pasta de soja fermentada",
+        "Té verde",
+        "Salsa picante",
+        "Algas deshidratadas"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Plato nacional de Reino Unido?",
+      "opciones": [
+        "Fish and chips",
+        "Paella",
+        "Coq au vin",
+        "Pierogi"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿De qué país es la feijoada?",
+      "opciones": [
+        "Argentina",
+        "Brasil",
+        "Chile",
+        "Uruguay"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué carne se usa típicamente en el Wiener Schnitzel?",
+      "opciones": [
+        "Pollo",
+        "Ternera",
+        "Cerdo",
+        "Cordero"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué empanadillas rellenas son típicas en Japón?",
+      "opciones": [
+        "Ravioli",
+        "Gyoza",
+        "Pierogi",
+        "Manti"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué país se originó el queso cheddar?",
+      "opciones": [
+        "Estados Unidos",
+        "Reino Unido",
+        "Irlanda",
+        "Canadá"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué bebida es el sake?",
+      "opciones": [
+        "Vino de arroz",
+        "Cerveza de trigo",
+        "Licor de maíz",
+        "Sidra"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué país popularizó el mole poblano?",
+      "opciones": [
+        "Perú",
+        "México",
+        "Bolivia",
+        "Colombia"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Ciudad francesa asociada a la bouillabaisse?",
+      "opciones": [
+        "Niza",
+        "Marsella",
+        "Toulouse",
+        "Burdeos"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué país es origen del plato pho?",
+      "opciones": [
+        "China",
+        "Corea del Sur",
+        "Tailandia",
+        "Vietnam"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué pasta italiana tiene forma de mariposa?",
+      "opciones": [
+        "Spaghetti",
+        "Penne",
+        "Bucatini",
+        "Farfalle"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué país se creó el croissant moderno?",
+      "opciones": [
+        "Austria",
+        "Suiza",
+        "Bélgica",
+        "Francia"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál es el queso español de La Mancha?",
+      "opciones": [
+        "Gruyère",
+        "Pecorino",
+        "Idiazábal",
+        "Manchego"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué salsa lleva yema y mantequilla clarificada?",
+      "opciones": [
+        "Bechamel",
+        "Pesto",
+        "Marinara",
+        "Holandesa"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué es la tempura?",
+      "opciones": [
+        "Sopa de miso",
+        "Arroz avinagrado",
+        "Fermentado de soja",
+        "Fritura ligera"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿De qué país proviene el borscht?",
+      "opciones": [
+        "Alemania",
+        "Rumanía",
+        "Chequia",
+        "Ucrania"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué fruta es base del chutney clásico?",
+      "opciones": [
+        "Naranja",
+        "Piña",
+        "Papaya",
+        "Mango"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué pasta se usa tradicionalmente en la carbonara?",
+      "opciones": [
+        "Maccheroni",
+        "Farfalle",
+        "Tortellini",
+        "Spaghetti"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué grano es base del tabulé?",
+      "opciones": [
+        "Arroz",
+        "Mijo",
+        "Quinoa",
+        "Bulgur"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué país popularizó el poutine?",
+      "opciones": [
+        "Estados Unidos",
+        "Francia",
+        "Bélgica",
+        "Canadá"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué es el nori?",
+      "opciones": [
+        "Pescado seco",
+        "Salsa picante",
+        "Fideo de arroz",
+        "Alga comestible"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué especia es el azafrán?",
+      "opciones": [
+        "Raíz",
+        "Hoja",
+        "Semilla",
+        "Estigma floral"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué dulce es típico de Turquía?",
+      "opciones": [
+        "Cannoli",
+        "Churro",
+        "Sacher",
+        "Baklava"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué bebida fermentada es el kefir?",
+      "opciones": [
+        "Vino",
+        "Cerveza",
+        "Sidra",
+        "Leche fermentada"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿De dónde es originaria la focaccia?",
+      "opciones": [
+        "Sicilia",
+        "Lacio",
+        "Piamonte",
+        "Liguria"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué pescado se sala para hacer bacalhau?",
+      "opciones": [
+        "Merluza",
+        "Pez espada",
+        "Sardina",
+        "Bacalao"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué pasta es rellena y con forma de anillo?",
+      "opciones": [
+        "Ravioli",
+        "Agnolotti",
+        "Cavatelli",
+        "Tortellini"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué chile seco es base del mole negro?",
+      "opciones": [
+        "Guajillo",
+        "Chipotle",
+        "Pasilla",
+        "Chilhuacle negro"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué país es famoso por el laksa?",
+      "opciones": [
+        "India",
+        "Filipinas",
+        "Japón",
+        "Malasia"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué técnica japonesa fermenta soja y trigo para una salsa?",
+      "opciones": [
+        "Mirin",
+        "Dashi",
+        "Ponzu",
+        "Shōyu"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué es el paneer?",
+      "opciones": [
+        "Embutido",
+        "Pan árabe",
+        "Mantequilla",
+        "Queso fresco"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué pasta larga es más gruesa que el spaghetti?",
+      "opciones": [
+        "Vermicelli",
+        "Capellini",
+        "Fettuccine",
+        "Bucatini"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué postre argentino lleva capas de hojaldre y dulce de leche?",
+      "opciones": [
+        "Milhojas francés",
+        "Chocotorta",
+        "Alfajor",
+        "Rogel"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál es el queso italiano de suero usado en postres?",
+      "opciones": [
+        "Mascarpone",
+        "Provolone",
+        "Asiago",
+        "Ricotta"
+      ],
+      "correcta": 4
+    }
   ]
 }

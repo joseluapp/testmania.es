@@ -1,55 +1,505 @@
 {
   "titulo": "Preguntas para niños",
   "preguntas": [
-    { "texto": "¿Capital de Francia?", "opciones": ["París","Roma","Lisboa","Berlín"], "correcta": 1 },
-    { "texto": "¿Cuál es el planeta rojo?", "opciones": ["Júpiter","Marte","Venus","Saturno"], "correcta": 2 },
-    { "texto": "¿Cuántos días tiene una semana?", "opciones": ["5","6","7","8"], "correcta": 3 },
-    { "texto": "¿Qué animal pone huevos?", "opciones": ["Perro","Gato","Vaca","Gallina"], "correcta": 4 },
-    { "texto": "¿Qué instrumento tiene teclas blancas y negras?", "opciones": ["Piano","Guitarra","Violín","Trompeta"], "correcta": 1 },
-    { "texto": "¿Qué figura tiene tres lados?", "opciones": ["Cuadrado","Triángulo","Círculo","Rectángulo"], "correcta": 2 },
-    { "texto": "¿Qué estación viene después de la primavera?", "opciones": ["Invierno","Primavera","Verano","Otoño"], "correcta": 3 },
-    { "texto": "¿Cuál es el animal más grande del mundo?", "opciones": ["Ratón","Gato","Perro","Ballena azul"], "correcta": 4 },
-    { "texto": "¿Capital de España?", "opciones": ["Madrid","Barcelona","Sevilla","Valencia"], "correcta": 1 },
-    { "texto": "¿Qué color se obtiene al mezclar amarillo y azul?", "opciones": ["Naranja","Verde","Morado","Rojo"], "correcta": 2 },
-    { "texto": "¿Cuántos minutos tiene una hora?", "opciones": ["30","45","60","90"], "correcta": 3 },
-    { "texto": "¿Qué animal dice «muu»?", "opciones": ["Gato","Perro","Oveja","Vaca"], "correcta": 4 },
-    { "texto": "¿Qué idioma se habla en Brasil?", "opciones": ["Portugués","Español","Inglés","Francés"], "correcta": 1 },
-    { "texto": "¿Qué gas necesitamos para respirar?", "opciones": ["Nitrógeno","Oxígeno","Hidrógeno","Helio"], "correcta": 2 },
-    { "texto": "¿Qué número viene después del 9?", "opciones": ["8","9","10","11"], "correcta": 3 },
-    { "texto": "¿Dónde viven los peces?", "opciones": ["En árboles","En cuevas","En nidos","En el agua"], "correcta": 4 },
-    { "texto": "¿En qué planeta vivimos?", "opciones": ["La Tierra","Marte","Júpiter","Venus"], "correcta": 1 },
-    { "texto": "¿Cuál de estos es un insecto?", "opciones": ["Caracol","Mariposa","Ratón","Sapo"], "correcta": 2 },
-    { "texto": "¿Cuál es el océano más grande?", "opciones": ["Ártico","Índico","Pacífico","Atlántico"], "correcta": 3 },
-    { "texto": "¿Cuántos ojos tienen la mayoría de las personas?", "opciones": ["1","3","4","2"], "correcta": 4 },
-    { "texto": "¿Qué fruta es amarilla y curva?", "opciones": ["Plátano","Manzana","Uva","Fresa"], "correcta": 1 },
-    { "texto": "¿Qué usamos en la muñeca para ver la hora?", "opciones": ["Gafas","Reloj","Anillo","Pulsera"], "correcta": 2 },
-    { "texto": "¿Capital de Italia?", "opciones": ["Milán","Venecia","Roma","Nápoles"], "correcta": 3 },
-    { "texto": "¿Qué animal hace miel?", "opciones": ["Vaca","Caballo","Perro","Abeja"], "correcta": 4 },
-    { "texto": "¿Cuántas patas tiene una araña?", "opciones": ["8","6","4","10"], "correcta": 1 },
-    { "texto": "¿Qué figura es redonda y sin esquinas?", "opciones": ["Triángulo","Círculo","Cuadrado","Rectángulo"], "correcta": 2 },
-    { "texto": "¿Qué día viene después del lunes?", "opciones": ["Domingo","Lunes","Martes","Miércoles"], "correcta": 3 },
-    { "texto": "¿Cuál es el animal terrestre más rápido?", "opciones": ["Tortuga","Elefante","Caballo","Guepardo"], "correcta": 4 },
-    { "texto": "¿Qué bebida sale de las vacas?", "opciones": ["Leche","Agua","Zumo","Refresco"], "correcta": 1 },
-    { "texto": "¿Qué órgano late en el pecho?", "opciones": ["Pulmón","Corazón","Hígado","Estómago"], "correcta": 2 },
-    { "texto": "¿Cuántas letras tiene la palabra «sol»?", "opciones": ["2","4","3","5"], "correcta": 3 },
-    { "texto": "¿Qué usamos para escribir en un cuaderno?", "opciones": ["Tijeras","Pegamento","Regla","Lápiz"], "correcta": 4 },
-    { "texto": "¿Capital de México?", "opciones": ["Ciudad de México","Guadalajara","Monterrey","Puebla"], "correcta": 1 },
-    { "texto": "¿Qué animal vive en el polo y es grande y blanco?", "opciones": ["León","Oso polar","Jirafa","Puma"], "correcta": 2 },
-    { "texto": "¿Qué instrumento de cuerdas se toca con arco?", "opciones": ["Piano","Guitarra","Violín","Batería"], "correcta": 3 },
-    { "texto": "¿Qué parte del cuerpo usamos para oír?", "opciones": ["Ojos","Nariz","Boca","Orejas"], "correcta": 4 },
-    { "texto": "¿Qué medio de transporte vuela?", "opciones": ["Avión","Bicicleta","Coche","Barco"], "correcta": 1 },
-    { "texto": "¿Cómo se llama el satélite natural de la Tierra?", "opciones": ["Sol","Luna","Estrella","Cometa"], "correcta": 2 },
-    { "texto": "¿Qué animal dice «beee»?", "opciones": ["Vaca","Perro","Oveja","Gallo"], "correcta": 3 },
-    { "texto": "¿Cuál de estos es un número par?", "opciones": ["7","9","11","8"], "correcta": 4 },
-    { "texto": "¿En qué continente está Egipto?", "opciones": ["África","Europa","Asia","Oceanía"], "correcta": 1 },
-    { "texto": "¿Qué vegetal es naranja y ayuda a la vista?", "opciones": ["Patata","Zanahoria","Lechuga","Pepino"], "correcta": 2 },
-    { "texto": "¿Qué hacemos con los ojos?", "opciones": ["Oír","Oler","Ver","Tocar"], "correcta": 3 },
-    { "texto": "¿Qué astro nos da luz y calor de día?", "opciones": ["Luna","Estrella","Tierra","Sol"], "correcta": 4 },
-    { "texto": "¿Qué animal salta y lleva a sus crías en una bolsa?", "opciones": ["Canguro","Delfín","Águila","Serpiente"], "correcta": 1 },
-    { "texto": "¿Cuántas ruedas tiene una bicicleta?", "opciones": ["3","2","4","1"], "correcta": 2 },
-    { "texto": "¿Capital de Argentina?", "opciones": ["Córdoba","Rosario","Buenos Aires","Mendoza"], "correcta": 3 },
-    { "texto": "¿Cuál es el idioma más hablado en Estados Unidos?", "opciones": ["Español","Francés","Chino","Inglés"], "correcta": 4 },
-    { "texto": "¿En qué continente está España?", "opciones": ["Europa","Asia","África","América"], "correcta": 1 },
-    { "texto": "¿Qué animal vive en el océano, tiene aletas y es mamífero?", "opciones": ["Tiburón","Pulpo","Delfín","Caballito de mar"], "correcta": 3 }
+    {
+      "texto": "¿Capital de Francia?",
+      "opciones": [
+        "París",
+        "Roma",
+        "Lisboa",
+        "Berlín"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el planeta rojo?",
+      "opciones": [
+        "Júpiter",
+        "Marte",
+        "Venus",
+        "Saturno"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuántos días tiene una semana?",
+      "opciones": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué animal pone huevos?",
+      "opciones": [
+        "Perro",
+        "Gato",
+        "Vaca",
+        "Gallina"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué instrumento tiene teclas blancas y negras?",
+      "opciones": [
+        "Piano",
+        "Guitarra",
+        "Violín",
+        "Trompeta"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué figura tiene tres lados?",
+      "opciones": [
+        "Cuadrado",
+        "Triángulo",
+        "Círculo",
+        "Rectángulo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué estación viene después de la primavera?",
+      "opciones": [
+        "Invierno",
+        "Primavera",
+        "Verano",
+        "Otoño"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es el animal más grande del mundo?",
+      "opciones": [
+        "Ratón",
+        "Gato",
+        "Perro",
+        "Ballena azul"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Capital de España?",
+      "opciones": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué color se obtiene al mezclar amarillo y azul?",
+      "opciones": [
+        "Naranja",
+        "Verde",
+        "Morado",
+        "Rojo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuántos minutos tiene una hora?",
+      "opciones": [
+        "30",
+        "45",
+        "60",
+        "90"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué animal dice «muu»?",
+      "opciones": [
+        "Gato",
+        "Perro",
+        "Oveja",
+        "Vaca"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué idioma se habla en Brasil?",
+      "opciones": [
+        "Portugués",
+        "Español",
+        "Inglés",
+        "Francés"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué gas necesitamos para respirar?",
+      "opciones": [
+        "Nitrógeno",
+        "Oxígeno",
+        "Hidrógeno",
+        "Helio"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué número viene después del 9?",
+      "opciones": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Dónde viven los peces?",
+      "opciones": [
+        "En árboles",
+        "En cuevas",
+        "En nidos",
+        "En el agua"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué planeta vivimos?",
+      "opciones": [
+        "La Tierra",
+        "Marte",
+        "Júpiter",
+        "Venus"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál de estos es un insecto?",
+      "opciones": [
+        "Caracol",
+        "Mariposa",
+        "Ratón",
+        "Sapo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es el océano más grande?",
+      "opciones": [
+        "Ártico",
+        "Índico",
+        "Pacífico",
+        "Atlántico"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuántos ojos tienen la mayoría de las personas?",
+      "opciones": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué fruta es amarilla y curva?",
+      "opciones": [
+        "Plátano",
+        "Manzana",
+        "Uva",
+        "Fresa"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué usamos en la muñeca para ver la hora?",
+      "opciones": [
+        "Gafas",
+        "Reloj",
+        "Anillo",
+        "Pulsera"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Capital de Italia?",
+      "opciones": [
+        "Milán",
+        "Venecia",
+        "Roma",
+        "Nápoles"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué animal hace miel?",
+      "opciones": [
+        "Vaca",
+        "Caballo",
+        "Perro",
+        "Abeja"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuántas patas tiene una araña?",
+      "opciones": [
+        "8",
+        "6",
+        "4",
+        "10"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué figura es redonda y sin esquinas?",
+      "opciones": [
+        "Triángulo",
+        "Círculo",
+        "Cuadrado",
+        "Rectángulo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué día viene después del lunes?",
+      "opciones": [
+        "Domingo",
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es el animal terrestre más rápido?",
+      "opciones": [
+        "Tortuga",
+        "Elefante",
+        "Caballo",
+        "Guepardo"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué bebida sale de las vacas?",
+      "opciones": [
+        "Leche",
+        "Agua",
+        "Zumo",
+        "Refresco"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué órgano late en el pecho?",
+      "opciones": [
+        "Pulmón",
+        "Corazón",
+        "Hígado",
+        "Estómago"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuántas letras tiene la palabra «sol»?",
+      "opciones": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué usamos para escribir en un cuaderno?",
+      "opciones": [
+        "Tijeras",
+        "Pegamento",
+        "Regla",
+        "Lápiz"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Capital de México?",
+      "opciones": [
+        "Ciudad de México",
+        "Guadalajara",
+        "Monterrey",
+        "Puebla"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué animal vive en el polo y es grande y blanco?",
+      "opciones": [
+        "León",
+        "Oso polar",
+        "Jirafa",
+        "Puma"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué instrumento de cuerdas se toca con arco?",
+      "opciones": [
+        "Piano",
+        "Guitarra",
+        "Violín",
+        "Batería"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué parte del cuerpo usamos para oír?",
+      "opciones": [
+        "Ojos",
+        "Nariz",
+        "Boca",
+        "Orejas"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué medio de transporte vuela?",
+      "opciones": [
+        "Avión",
+        "Bicicleta",
+        "Coche",
+        "Barco"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cómo se llama el satélite natural de la Tierra?",
+      "opciones": [
+        "Sol",
+        "Luna",
+        "Estrella",
+        "Cometa"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué animal dice «beee»?",
+      "opciones": [
+        "Vaca",
+        "Perro",
+        "Oveja",
+        "Gallo"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál de estos es un número par?",
+      "opciones": [
+        "7",
+        "9",
+        "11",
+        "8"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué continente está Egipto?",
+      "opciones": [
+        "África",
+        "Europa",
+        "Asia",
+        "Oceanía"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué vegetal es naranja y ayuda a la vista?",
+      "opciones": [
+        "Patata",
+        "Zanahoria",
+        "Lechuga",
+        "Pepino"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué hacemos con los ojos?",
+      "opciones": [
+        "Oír",
+        "Oler",
+        "Ver",
+        "Tocar"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué astro nos da luz y calor de día?",
+      "opciones": [
+        "Luna",
+        "Estrella",
+        "Tierra",
+        "Sol"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué animal salta y lleva a sus crías en una bolsa?",
+      "opciones": [
+        "Canguro",
+        "Delfín",
+        "Águila",
+        "Serpiente"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántas ruedas tiene una bicicleta?",
+      "opciones": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Capital de Argentina?",
+      "opciones": [
+        "Córdoba",
+        "Rosario",
+        "Buenos Aires",
+        "Mendoza"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es el idioma más hablado en Estados Unidos?",
+      "opciones": [
+        "Español",
+        "Francés",
+        "Chino",
+        "Inglés"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué continente está España?",
+      "opciones": [
+        "Europa",
+        "Asia",
+        "África",
+        "América"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué animal vive en el océano, tiene aletas y es mamífero?",
+      "opciones": [
+        "Tiburón",
+        "Pulpo",
+        "Delfín",
+        "Caballito de mar"
+      ],
+      "correcta": 3
+    }
   ]
 }
