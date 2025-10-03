@@ -2,52 +2,272 @@
   "titulo": "Capitales del mundo",
   "preguntas": [
     {
-      "texto": "¿Capital de República Checa?",
+      "texto": "¿Capital de Turkmenistán?",
       "opciones": [
-        "Brno",
-        "Ostrava",
-        "Pilsen",
-        "Praga"
+        "Türkmenabat",
+        "Dashoguz",
+        "Asjabad",
+        "Mary"
       ],
-      "correcta": 4
+      "correcta": 3
     },
     {
-      "texto": "¿Capital de Eslovaquia?",
+      "texto": "¿Capital de Guatemala?",
       "opciones": [
-        "Kosice",
-        "Nitra",
-        "Trnava",
-        "Bratislava"
+        "Quetzaltenango",
+        "Ciudad de Guatemala",
+        "Antigua",
+        "Escuintla"
       ],
-      "correcta": 4
+      "correcta": 2
     },
     {
-      "texto": "¿Capital de Hungría?",
+      "texto": "¿Capital de Vietnam?",
       "opciones": [
-        "Debrecen",
-        "Szeged",
-        "Pécs",
-        "Budapest"
+        "Hanói",
+        "Da Nang",
+        "Ho Chi Minh",
+        "Hue"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Tailandia?",
+      "opciones": [
+        "Pattaya",
+        "Phuket",
+        "Chiang Mai",
+        "Bangkok"
       ],
       "correcta": 4
     },
     {
       "texto": "¿Capital de Bulgaria?",
       "opciones": [
-        "Varna",
+        "Burgas",
         "Plovdiv",
         "Sofía",
-        "Burgas"
+        "Varna"
       ],
       "correcta": 3
     },
     {
-      "texto": "¿Capital de Turquía?",
+      "texto": "¿Capital de Indonesia?",
       "opciones": [
-        "Esmirna",
-        "Ankara",
-        "Antalya",
-        "Bursa"
+        "Yakarta",
+        "Medan",
+        "Surabaya",
+        "Bandung"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Perú?",
+      "opciones": [
+        "Lima",
+        "Cusco",
+        "Trujillo",
+        "Arequipa"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Cuba?",
+      "opciones": [
+        "Camagüey",
+        "Santa Clara",
+        "Santiago de Cuba",
+        "La Habana"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Capital de Armenia?",
+      "opciones": [
+        "Ereván",
+        "Vanadzor",
+        "Echmiadzín",
+        "Gyumri"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Kazajistán?",
+      "opciones": [
+        "Almaty",
+        "Astana",
+        "Shymkent",
+        "Atyrau"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Capital de Hungría?",
+      "opciones": [
+        "Budapest",
+        "Debrecen",
+        "Szeged",
+        "Pécs"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Serbia?",
+      "opciones": [
+        "Belgrado",
+        "Niš",
+        "Kragujevac",
+        "Novi Sad"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Bosnia y Herzegovina?",
+      "opciones": [
+        "Mostar",
+        "Sarajevo",
+        "Banja Luka",
+        "Tuzla"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Capital de Filipinas?",
+      "opciones": [
+        "Dávao",
+        "Manila",
+        "Quezón",
+        "Cebú"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Capital de República Dominicana?",
+      "opciones": [
+        "Santiago",
+        "San Pedro de Macorís",
+        "La Romana",
+        "Santo Domingo"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Capital de Túnez?",
+      "opciones": [
+        "Túnez",
+        "Sfax",
+        "Susa",
+        "Bizerta"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Marruecos?",
+      "opciones": [
+        "Tánger",
+        "Rabat",
+        "Marrakech",
+        "Casablanca"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Capital de Eslovaquia?",
+      "opciones": [
+        "Trnava",
+        "Kosice",
+        "Bratislava",
+        "Nitra"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Capital de Nigeria?",
+      "opciones": [
+        "Kano",
+        "Lagos",
+        "Abuya",
+        "Ibadan"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Capital de Estonia?",
+      "opciones": [
+        "Tallin",
+        "Tartu",
+        "Pärnu",
+        "Narva"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Kirguistán?",
+      "opciones": [
+        "Karakol",
+        "Jalal-Abad",
+        "Osh",
+        "Biskek"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Capital de Letonia?",
+      "opciones": [
+        "Riga",
+        "Liepāja",
+        "Jūrmala",
+        "Daugavpils"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Eslovenia?",
+      "opciones": [
+        "Maribor",
+        "Celje",
+        "Kranj",
+        "Liubliana"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Capital de Croacia?",
+      "opciones": [
+        "Dubrovnik",
+        "Split",
+        "Zadar",
+        "Zagreb"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Capital de Haití?",
+      "opciones": [
+        "Puerto Príncipe",
+        "Cabo Haitiano",
+        "Jacmel",
+        "Gonaives"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Azerbaiyán?",
+      "opciones": [
+        "Bakú",
+        "Sumqayit",
+        "Lankaran",
+        "Ganyá"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Lituania?",
+      "opciones": [
+        "Šiauliai",
+        "Vilna",
+        "Kaunas",
+        "Klaipėda"
       ],
       "correcta": 2
     },
@@ -62,334 +282,194 @@
       "correcta": 4
     },
     {
-      "texto": "¿Capital de Bielorrusia?",
-      "opciones": [
-        "Gómel",
-        "Brest",
-        "Vítebsk",
-        "Minsk"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Lituania?",
-      "opciones": [
-        "Kaunas",
-        "Klaipėda",
-        "Šiauliai",
-        "Vilna"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Letonia?",
-      "opciones": [
-        "Jūrmala",
-        "Daugavpils",
-        "Liepāja",
-        "Riga"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Estonia?",
-      "opciones": [
-        "Tartu",
-        "Pärnu",
-        "Narva",
-        "Tallin"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Croacia?",
-      "opciones": [
-        "Split",
-        "Dubrovnik",
-        "Zadar",
-        "Zagreb"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Eslovenia?",
-      "opciones": [
-        "Maribor",
-        "Celje",
-        "Kranj",
-        "Liubliana"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Bosnia y Herzegovina?",
-      "opciones": [
-        "Banja Luka",
-        "Mostar",
-        "Tuzla",
-        "Sarajevo"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Serbia?",
-      "opciones": [
-        "Novi Sad",
-        "Niš",
-        "Kragujevac",
-        "Belgrado"
-      ],
-      "correcta": 4
-    },
-    {
       "texto": "¿Capital de Albania?",
       "opciones": [
-        "Shkodër",
         "Durrës",
-        "Vlorë",
-        "Tirana"
+        "Shkodër",
+        "Tirana",
+        "Vlorë"
       ],
-      "correcta": 4
+      "correcta": 3
     },
     {
-      "texto": "¿Capital de Armenia?",
+      "texto": "¿Capital de Panamá?",
       "opciones": [
-        "Gyumri",
-        "Vanadzor",
-        "Echmiadzín",
-        "Ereván"
+        "Ciudad de Panamá",
+        "David",
+        "Colón",
+        "Santiago"
       ],
-      "correcta": 4
+      "correcta": 1
     },
     {
-      "texto": "¿Capital de Azerbaiyán?",
+      "texto": "¿Capital de República Checa?",
       "opciones": [
-        "Ganyá",
-        "Sumqayit",
-        "Lankaran",
-        "Bakú"
+        "Praga",
+        "Brno",
+        "Ostrava",
+        "Pilsen"
       ],
-      "correcta": 4
+      "correcta": 1
     },
     {
-      "texto": "¿Capital de Kazajistán?",
+      "texto": "¿Capital de Senegal?",
       "opciones": [
-        "Almaty",
-        "Shymkent",
-        "Atyrau",
-        "Astana"
+        "Ziguinchor",
+        "Thiès",
+        "Dakar",
+        "Saint-Louis"
       ],
-      "correcta": 4
+      "correcta": 3
     },
     {
-      "texto": "¿Capital de Uzbekistán?",
+      "texto": "¿Capital de Ghana?",
       "opciones": [
-        "Samarcanda",
-        "Bujará",
-        "Namangán",
-        "Taskent"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Turkmenistán?",
-      "opciones": [
-        "Mary",
-        "Dashoguz",
-        "Türkmenabat",
-        "Asjabad"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Kirguistán?",
-      "opciones": [
-        "Osh",
-        "Jalal-Abad",
-        "Karakol",
-        "Biskek"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Indonesia?",
-      "opciones": [
-        "Surabaya",
-        "Bandung",
-        "Medan",
-        "Yakarta"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Filipinas?",
-      "opciones": [
-        "Cebú",
-        "Dávao",
-        "Quezón",
-        "Manila"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Tailandia?",
-      "opciones": [
-        "Chiang Mai",
-        "Pattaya",
-        "Phuket",
-        "Bangkok"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Vietnam?",
-      "opciones": [
-        "Da Nang",
-        "Hanói",
-        "Ho Chi Minh",
-        "Hue"
+        "Kumasi",
+        "Acra",
+        "Sekondi-Takoradi",
+        "Tamale"
       ],
       "correcta": 2
     },
     {
-      "texto": "¿Capital de Camboya?",
+      "texto": "¿Capital de Egipto?",
       "opciones": [
-        "Siem Riep",
-        "Battambang",
-        "Sihanoukville",
-        "Nom Pen"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Laos?",
-      "opciones": [
-        "Luang Prabang",
-        "Savannakhet",
-        "Pakxe",
-        "Vientián"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Chile?",
-      "opciones": [
-        "Valparaíso",
-        "Concepción",
-        "La Serena",
-        "Santiago"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Perú?",
-      "opciones": [
-        "Cusco",
-        "Arequipa",
-        "Trujillo",
-        "Lima"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Colombia?",
-      "opciones": [
-        "Medellín",
-        "Cali",
-        "Barranquilla",
-        "Bogotá"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Venezuela?",
-      "opciones": [
-        "Maracaibo",
-        "Valencia",
-        "Barquisimeto",
-        "Caracas"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Ecuador?",
-      "opciones": [
-        "Guayaquil",
-        "Cuenca",
-        "Quito",
-        "Manta"
+        "Gizeh",
+        "Alejandría",
+        "El Cairo",
+        "Luxor"
       ],
       "correcta": 3
     },
     {
       "texto": "¿Capital de Paraguay?",
       "opciones": [
-        "Encarnación",
         "Ciudad del Este",
+        "Encarnación",
         "Pedro Juan Caballero",
         "Asunción"
       ],
       "correcta": 4
     },
     {
+      "texto": "¿Capital de Kenia?",
+      "opciones": [
+        "Nakuru",
+        "Kisumu",
+        "Nairobi",
+        "Mombasa"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Capital de Laos?",
+      "opciones": [
+        "Savannakhet",
+        "Luang Prabang",
+        "Pakxe",
+        "Vientián"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Capital de Turquía?",
+      "opciones": [
+        "Bursa",
+        "Ankara",
+        "Antalya",
+        "Esmirna"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Capital de Camboya?",
+      "opciones": [
+        "Nom Pen",
+        "Sihanoukville",
+        "Siem Riep",
+        "Battambang"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Argelia?",
+      "opciones": [
+        "Argel",
+        "Orán",
+        "Annaba",
+        "Constantina"
+      ],
+      "correcta": 1
+    },
+    {
       "texto": "¿Capital de Uruguay?",
       "opciones": [
         "Salto",
-        "Paysandú",
         "Rivera",
-        "Montevideo"
+        "Montevideo",
+        "Paysandú"
       ],
-      "correcta": 4
+      "correcta": 3
     },
     {
-      "texto": "¿Capital de Cuba?",
+      "texto": "¿Capital de Uzbekistán?",
       "opciones": [
-        "Santiago de Cuba",
-        "Camagüey",
-        "Santa Clara",
-        "La Habana"
+        "Bujará",
+        "Namangán",
+        "Taskent",
+        "Samarcanda"
       ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de República Dominicana?",
-      "opciones": [
-        "Santiago",
-        "La Romana",
-        "San Pedro de Macorís",
-        "Santo Domingo"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Haití?",
-      "opciones": [
-        "Cabo Haitiano",
-        "Gonaives",
-        "Jacmel",
-        "Puerto Príncipe"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Guatemala?",
-      "opciones": [
-        "Quetzaltenango",
-        "Antigua",
-        "Escuintla",
-        "Ciudad de Guatemala"
-      ],
-      "correcta": 4
+      "correcta": 3
     },
     {
       "texto": "¿Capital de Honduras?",
       "opciones": [
-        "San Pedro Sula",
-        "La Ceiba",
+        "Tegucigalpa",
         "Choluteca",
-        "Tegucigalpa"
+        "La Ceiba",
+        "San Pedro Sula"
       ],
-      "correcta": 4
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Bielorrusia?",
+      "opciones": [
+        "Gómel",
+        "Vítebsk",
+        "Minsk",
+        "Brest"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Capital de Chile?",
+      "opciones": [
+        "Santiago",
+        "La Serena",
+        "Valparaíso",
+        "Concepción"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Etiopía?",
+      "opciones": [
+        "Adís Abeba",
+        "Dire Dawa",
+        "Gondar",
+        "Mekelle"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Capital de Ecuador?",
+      "opciones": [
+        "Quito",
+        "Cuenca",
+        "Guayaquil",
+        "Manta"
+      ],
+      "correcta": 1
     },
     {
       "texto": "¿Capital de Costa Rica?",
@@ -402,102 +482,22 @@
       "correcta": 4
     },
     {
-      "texto": "¿Capital de Panamá?",
+      "texto": "¿Capital de Venezuela?",
       "opciones": [
-        "Colón",
-        "David",
-        "Santiago",
-        "Ciudad de Panamá"
+        "Valencia",
+        "Maracaibo",
+        "Barquisimeto",
+        "Caracas"
       ],
       "correcta": 4
     },
     {
-      "texto": "¿Capital de Marruecos?",
+      "texto": "¿Capital de Colombia?",
       "opciones": [
-        "Casablanca",
-        "Marrakech",
-        "Tánger",
-        "Rabat"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Argelia?",
-      "opciones": [
-        "Orán",
-        "Constantina",
-        "Annaba",
-        "Argel"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Túnez?",
-      "opciones": [
-        "Susa",
-        "Sfax",
-        "Bizerta",
-        "Túnez"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Egipto?",
-      "opciones": [
-        "Alejandría",
-        "Gizeh",
-        "Luxor",
-        "El Cairo"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Nigeria?",
-      "opciones": [
-        "Lagos",
-        "Kano",
-        "Ibadan",
-        "Abuya"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Kenia?",
-      "opciones": [
-        "Mombasa",
-        "Kisumu",
-        "Nakuru",
-        "Nairobi"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Etiopía?",
-      "opciones": [
-        "Dire Dawa",
-        "Mekelle",
-        "Gondar",
-        "Adís Abeba"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Ghana?",
-      "opciones": [
-        "Kumasi",
-        "Tamale",
-        "Sekondi-Takoradi",
-        "Acra"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Capital de Senegal?",
-      "opciones": [
-        "Saint-Louis",
-        "Thiès",
-        "Ziguinchor",
-        "Dakar"
+        "Medellín",
+        "Cali",
+        "Barranquilla",
+        "Bogotá"
       ],
       "correcta": 4
     }
