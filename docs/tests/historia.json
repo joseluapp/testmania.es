@@ -2,52 +2,172 @@
   "titulo": "Historia universal",
   "preguntas": [
     {
-      "texto": "¿En qué año cayó el Imperio Romano de Occidente?",
+      "texto": "¿Qué acontecimiento histórico ocurrió en 1776?",
       "opciones": [
-        "395 d.C.",
-        "410 d.C.",
-        "476 d.C.",
-        "509 d.C."
+        "Descubrimiento de América",
+        "Revolución Francesa",
+        "Independencia de Estados Unidos",
+        "Caída de Roma"
       ],
       "correcta": 3
     },
     {
-      "texto": "¿Quién fue el primer emperador romano?",
+      "texto": "¿Qué imperio construyó el Coliseo en Roma?",
       "opciones": [
-        "Julio César",
-        "Nerón",
-        "Augusto",
-        "Trajano"
+        "Egipcio",
+        "Griego",
+        "Bizantino",
+        "Romano"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "opciones": [
+        "1918",
+        "1912",
+        "1914",
+        "1916"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué año comenzó la Guerra de Corea?",
+      "opciones": [
+        "1948",
+        "1945",
+        "1953",
+        "1950"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+      "opciones": [
+        "Sócrates",
+        "Epicuro",
+        "Platón",
+        "Aristóteles"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué ciudad nació la democracia?",
+      "opciones": [
+        "Atenas",
+        "Esparta",
+        "Corinto",
+        "Roma"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué imperio construyó la Gran Muralla China?",
+      "opciones": [
+        "Han",
+        "Tang",
+        "Qin",
+        "Song"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué ciudad fue destruida por la erupción del Vesubio en el 79 d.C.?",
+      "opciones": [
+        "Roma",
+        "Atenas",
+        "Cartago",
+        "Pompeya"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Quién escribió 'La República' en la Antigua Grecia?",
+      "opciones": [
+        "Heródoto",
+        "Platón",
+        "Sócrates",
+        "Aristóteles"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué civilización antigua usó la escritura cuneiforme?",
+      "opciones": [
+        "Persas",
+        "Fenicios",
+        "Mesopotámicos",
+        "Egipcios"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fue el primer emperador del Sacro Imperio Romano Germánico?",
+      "opciones": [
+        "Federico Barbarroja",
+        "Carlos V",
+        "Carlomagno",
+        "Otón I"
       ],
       "correcta": 3
     },
     {
       "texto": "¿Qué civilización construyó las pirámides de Giza?",
       "opciones": [
+        "Grecia",
         "Mesopotamia",
-        "Egipto",
         "China",
-        "Grecia"
+        "Egipto"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Quién fue el primer emperador de China?",
+      "opciones": [
+        "Sun Tzu",
+        "Han Wudi",
+        "Qin Shi Huang",
+        "Confucio"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fue el último zar de Rusia?",
+      "opciones": [
+        "Iván IV",
+        "Nicolás II",
+        "Alejandro II",
+        "Pedro el Grande"
       ],
       "correcta": 2
     },
     {
-      "texto": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "texto": "¿Quién lideró la Reforma Protestante en el siglo XVI?",
       "opciones": [
-        "1912",
-        "1914",
-        "1916",
-        "1918"
+        "Lutero",
+        "Calvino",
+        "Zuinglio",
+        "Knox"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué guerra se libró entre 1955 y 1975 en el sudeste asiático?",
+      "opciones": [
+        "Corea",
+        "Vietnam",
+        "Indochina",
+        "Camboya"
       ],
       "correcta": 2
     },
     {
-      "texto": "¿Quién fue el líder militar de Macedonia que creó un gran imperio?",
+      "texto": "¿Qué cultura precolombina construyó Machu Picchu?",
       "opciones": [
-        "Ciro el Grande",
-        "Alejandro Magno",
-        "Darío I",
-        "Aníbal"
+        "Olmecas",
+        "Incas",
+        "Aztecas",
+        "Mayas"
       ],
       "correcta": 2
     },
@@ -62,112 +182,272 @@
       "correcta": 2
     },
     {
-      "texto": "¿Quién descubrió América en 1492?",
+      "texto": "¿Quién fue el emperador francés que se coronó en 1804?",
       "opciones": [
-        "Cristóbal Colón",
-        "Vasco da Gama",
-        "Magallanes",
-        "Américo Vespucio"
+        "Carlos X",
+        "Luis XIV",
+        "Napoleón Bonaparte",
+        "Luis XVI"
       ],
-      "correcta": 1
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué acontecimiento ocurrió en 1929?",
+      "opciones": [
+        "Revolución Rusa",
+        "Segunda Guerra Mundial",
+        "Gran Depresión",
+        "Primera Guerra Mundial"
+      ],
+      "correcta": 3
     },
     {
       "texto": "¿Qué muro cayó en 1989 marcando el fin de la Guerra Fría?",
       "opciones": [
-        "Muro de Berlín",
         "Muro de Varsovia",
+        "Muro de Praga",
         "Muro de Moscú",
-        "Muro de Praga"
+        "Muro de Berlín"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué imperio construyó la ciudad de Cusco?",
+      "opciones": [
+        "Maya",
+        "Azteca",
+        "Olmeca",
+        "Inca"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Quién fue el primer hombre en viajar al espacio?",
+      "opciones": [
+        "Buzz Aldrin",
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "John Glenn"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué guerra enfrentó a Atenas y Esparta?",
+      "opciones": [
+        "Guerra del Peloponeso",
+        "Guerra de Troya",
+        "Guerras Médicas",
+        "Guerras Púnicas"
       ],
       "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el primer rey de Israel?",
+      "opciones": [
+        "Saúl",
+        "Josué",
+        "David",
+        "Salomón"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién lideró la independencia de Venezuela?",
+      "opciones": [
+        "Simón Bolívar",
+        "José de San Martín",
+        "Antonio José de Sucre",
+        "Francisco de Miranda"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año comenzó la Revolución Rusa?",
+      "opciones": [
+        "1917",
+        "1918",
+        "1916",
+        "1915"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el primer faraón de Egipto unificado?",
+      "opciones": [
+        "Keops",
+        "Narmer",
+        "Ramsés II",
+        "Tutankamón"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué año terminó la Segunda Guerra Mundial?",
+      "opciones": [
+        "1946",
+        "1945",
+        "1944",
+        "1943"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué año se firmó la Declaración Universal de los Derechos Humanos?",
+      "opciones": [
+        "1946",
+        "1948",
+        "1945",
+        "1947"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el conquistador de México?",
+      "opciones": [
+        "Pedro de Valdivia",
+        "Cristóbal Colón",
+        "Hernán Cortés",
+        "Francisco Pizarro"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué guerra comenzó en 1936 en España?",
+      "opciones": [
+        "Primera Mundial",
+        "Carlista",
+        "Guerra Civil",
+        "Segunda Mundial"
+      ],
+      "correcta": 3
     },
     {
       "texto": "¿Quién fue el primer presidente de Estados Unidos?",
       "opciones": [
-        "George Washington",
-        "Thomas Jefferson",
         "Abraham Lincoln",
-        "John Adams"
+        "John Adams",
+        "Thomas Jefferson",
+        "George Washington"
       ],
-      "correcta": 1
+      "correcta": 4
     },
     {
       "texto": "¿En qué año comenzó la Segunda Guerra Mundial?",
       "opciones": [
-        "1937",
-        "1938",
+        "1941",
         "1939",
-        "1941"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
-      "opciones": [
-        "Platón",
-        "Sócrates",
-        "Aristóteles",
-        "Epicuro"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Quién fue el emperador francés que se coronó en 1804?",
-      "opciones": [
-        "Luis XIV",
-        "Napoleón Bonaparte",
-        "Carlos X",
-        "Luis XVI"
+        "1937",
+        "1938"
       ],
       "correcta": 2
     },
     {
-      "texto": "¿Qué civilización antigua usó la escritura cuneiforme?",
+      "texto": "¿Quién descubrió América en 1492?",
       "opciones": [
-        "Egipcios",
-        "Fenicios",
-        "Mesopotámicos",
-        "Persas"
+        "Magallanes",
+        "Vasco da Gama",
+        "Cristóbal Colón",
+        "Américo Vespucio"
       ],
       "correcta": 3
     },
     {
-      "texto": "¿Quién lideró la independencia de la India en el siglo XX?",
+      "texto": "¿En qué año cayó el Imperio Romano de Occidente?",
       "opciones": [
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "Indira Gandhi",
-        "Subhas Chandra Bose"
+        "509 d.C.",
+        "395 d.C.",
+        "410 d.C.",
+        "476 d.C."
       ],
-      "correcta": 2
+      "correcta": 4
     },
     {
       "texto": "¿En qué año cayó Constantinopla?",
       "opciones": [
         "1204",
-        "1299",
         "1453",
+        "1299",
         "1517"
       ],
-      "correcta": 3
+      "correcta": 2
     },
     {
-      "texto": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+      "texto": "¿En qué año llegó el hombre a la Luna?",
       "opciones": [
-        "Versalles",
-        "París",
-        "Viena",
-        "Ginebra"
+        "1968",
+        "1969",
+        "1967",
+        "1970"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué país comenzó la Revolución Industrial?",
+      "opciones": [
+        "Reino Unido",
+        "Estados Unidos",
+        "Francia",
+        "Alemania"
       ],
       "correcta": 1
     },
     {
-      "texto": "¿Qué cultura precolombina construyó Machu Picchu?",
+      "texto": "¿Quién escribió 'La Ilíada' y 'La Odisea'?",
       "opciones": [
-        "Aztecas",
-        "Incas",
-        "Mayas",
-        "Olmecas"
+        "Heródoto",
+        "Homero",
+        "Platón",
+        "Esquilo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el primer emperador romano?",
+      "opciones": [
+        "Nerón",
+        "Julio César",
+        "Augusto",
+        "Trajano"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué emperador romano legalizó el cristianismo?",
+      "opciones": [
+        "Constantino",
+        "Nerón",
+        "Trajano",
+        "Julio César"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+      "opciones": [
+        "Ginebra",
+        "París",
+        "Versalles",
+        "Viena"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fue el líder militar de Macedonia que creó un gran imperio?",
+      "opciones": [
+        "Alejandro Magno",
+        "Ciro el Grande",
+        "Aníbal",
+        "Darío I"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué guerra enfrentó a Estados Unidos y la Unión Soviética sin combate directo?",
+      "opciones": [
+        "Vietnam",
+        "Fría",
+        "Golfo",
+        "Corea"
       ],
       "correcta": 2
     },
@@ -175,331 +455,51 @@
       "texto": "¿Quién fue el dictador alemán durante la Segunda Guerra Mundial?",
       "opciones": [
         "Hitler",
-        "Stalin",
         "Mussolini",
-        "Franco"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Qué guerra se libró entre 1955 y 1975 en el sudeste asiático?",
-      "opciones": [
-        "Corea",
-        "Vietnam",
-        "Camboya",
-        "Indochina"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Quién escribió 'La República' en la Antigua Grecia?",
-      "opciones": [
-        "Aristóteles",
-        "Platón",
-        "Sócrates",
-        "Heródoto"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿En qué país comenzó la Revolución Industrial?",
-      "opciones": [
-        "Francia",
-        "Alemania",
-        "Reino Unido",
-        "Estados Unidos"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Qué emperador romano legalizó el cristianismo?",
-      "opciones": [
-        "Nerón",
-        "Constantino",
-        "Julio César",
-        "Trajano"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Qué acontecimiento histórico ocurrió en 1776?",
-      "opciones": [
-        "Revolución Francesa",
-        "Independencia de Estados Unidos",
-        "Caída de Roma",
-        "Descubrimiento de América"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Quién fue el primer hombre en viajar al espacio?",
-      "opciones": [
-        "Neil Armstrong",
-        "Yuri Gagarin",
-        "Buzz Aldrin",
-        "John Glenn"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿En qué año comenzó la Guerra de Corea?",
-      "opciones": [
-        "1945",
-        "1948",
-        "1950",
-        "1953"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Quién fue el primer faraón de Egipto unificado?",
-      "opciones": [
-        "Tutankamón",
-        "Keops",
-        "Narmer",
-        "Ramsés II"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Qué ciudad fue destruida por la erupción del Vesubio en el 79 d.C.?",
-      "opciones": [
-        "Pompeya",
-        "Atenas",
-        "Roma",
-        "Cartago"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿En qué año terminó la Segunda Guerra Mundial?",
-      "opciones": [
-        "1943",
-        "1944",
-        "1945",
-        "1946"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Qué civilización desarrolló el calendario de 365 días?",
-      "opciones": [
-        "Mayas",
-        "Egipcios",
-        "Mesopotámicos",
-        "Chinos"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Quién fue el primer emperador de China?",
-      "opciones": [
-        "Qin Shi Huang",
-        "Han Wudi",
-        "Confucio",
-        "Sun Tzu"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Qué guerra enfrentó a Atenas y Esparta?",
-      "opciones": [
-        "Guerras Médicas",
-        "Guerra del Peloponeso",
-        "Guerra de Troya",
-        "Guerras Púnicas"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿En qué año se firmó la Declaración Universal de los Derechos Humanos?",
-      "opciones": [
-        "1945",
-        "1946",
-        "1947",
-        "1948"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Qué civilización construyó la ciudad de Tenochtitlán?",
-      "opciones": [
-        "Incas",
-        "Mayas",
-        "Aztecas",
-        "Olmecas"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Quién escribió 'La Ilíada' y 'La Odisea'?",
-      "opciones": [
-        "Platón",
-        "Heródoto",
-        "Homero",
-        "Esquilo"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Qué guerra comenzó en 1936 en España?",
-      "opciones": [
-        "Guerra Civil",
-        "Primera Mundial",
-        "Segunda Mundial",
-        "Carlista"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Quién lideró la Reforma Protestante en el siglo XVI?",
-      "opciones": [
-        "Calvino",
-        "Lutero",
-        "Zuinglio",
-        "Knox"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿En qué año comenzó la Revolución Rusa?",
-      "opciones": [
-        "1915",
-        "1916",
-        "1917",
-        "1918"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Qué imperio construyó la ciudad de Cusco?",
-      "opciones": [
-        "Maya",
-        "Azteca",
-        "Inca",
-        "Olmeca"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Quién fue el primer emperador del Sacro Imperio Romano Germánico?",
-      "opciones": [
-        "Carlomagno",
-        "Otón I",
-        "Carlos V",
-        "Federico Barbarroja"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Qué acontecimiento ocurrió en 1929?",
-      "opciones": [
-        "Primera Guerra Mundial",
-        "Gran Depresión",
-        "Segunda Guerra Mundial",
-        "Revolución Rusa"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Quién fue el conquistador de México?",
-      "opciones": [
-        "Francisco Pizarro",
-        "Hernán Cortés",
-        "Cristóbal Colón",
-        "Pedro de Valdivia"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Qué imperio construyó el Coliseo en Roma?",
-      "opciones": [
-        "Griego",
-        "Romano",
-        "Bizantino",
-        "Egipcio"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿En qué año llegó el hombre a la Luna?",
-      "opciones": [
-        "1967",
-        "1968",
-        "1969",
-        "1970"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Quién fue el último zar de Rusia?",
-      "opciones": [
-        "Nicolás II",
-        "Alejandro II",
-        "Pedro el Grande",
-        "Iván IV"
+        "Franco",
+        "Stalin"
       ],
       "correcta": 1
     },
     {
       "texto": "¿Qué civilización inventó la pólvora?",
       "opciones": [
-        "Árabes",
-        "Chinos",
+        "Griegos",
         "Persas",
-        "Griegos"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿En qué ciudad nació la democracia?",
-      "opciones": [
-        "Roma",
-        "Esparta",
-        "Atenas",
-        "Corinto"
+        "Chinos",
+        "Árabes"
       ],
       "correcta": 3
     },
     {
-      "texto": "¿Quién lideró la independencia de Venezuela?",
+      "texto": "¿Quién lideró la independencia de la India en el siglo XX?",
       "opciones": [
-        "José de San Martín",
-        "Simón Bolívar",
-        "Antonio José de Sucre",
-        "Francisco de Miranda"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Qué guerra enfrentó a Estados Unidos y la Unión Soviética sin combate directo?",
-      "opciones": [
-        "Fría",
-        "Vietnam",
-        "Corea",
-        "Golfo"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Quién fue el primer rey de Israel?",
-      "opciones": [
-        "David",
-        "Salomón",
-        "Saúl",
-        "Josué"
+        "Subhas Chandra Bose",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Indira Gandhi"
       ],
       "correcta": 3
     },
     {
-      "texto": "¿Qué imperio construyó la Gran Muralla China?",
+      "texto": "¿Qué civilización desarrolló el calendario de 365 días?",
       "opciones": [
-        "Han",
-        "Qin",
-        "Tang",
-        "Song"
+        "Mesopotámicos",
+        "Egipcios",
+        "Chinos",
+        "Mayas"
       ],
       "correcta": 2
+    },
+    {
+      "texto": "¿Qué civilización construyó la ciudad de Tenochtitlán?",
+      "opciones": [
+        "Incas",
+        "Olmecas",
+        "Mayas",
+        "Aztecas"
+      ],
+      "correcta": 4
     }
   ]
 }
