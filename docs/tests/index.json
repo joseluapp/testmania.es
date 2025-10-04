@@ -95,6 +95,11 @@
       "url": "./tests/monumentos_mundo.json"
     },
     {
+      "id": "Cultura general (Difícil)",
+      "url": "./tests/cultura_general_dificil.json",
+      "visible": false
+    },
+    {
       "id": "Vinos de España",
       "url": "./tests/vinos_de_espana.json",
       "visible": false

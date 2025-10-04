@@ -1,0 +1,535 @@
+{
+  "titulo": "Cultura general (Difícil)",
+  "preguntas": [
+    {
+      "texto": "¿Cuál es el nombre del filósofo chino que escribió el ‘Tao Te Ching’?",
+      "opciones": [
+        "Lao‑Tse",
+        "Confucio",
+        "Zhuangzi",
+        "Mencio"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el primer emperador romano de origen hispano?",
+      "opciones": [
+        "Adriano",
+        "Teodosio",
+        "Trajano",
+        "Marco Aurelio"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es el nombre del gran cráter de impacto en África del Sur considerado el más antiguo preservado?",
+      "opciones": [
+        "Popigai",
+        "Sudbury",
+        "Vredefort",
+        "Chicxulub"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál fue el filósofo que escribió ‘Ser y tiempo’?",
+      "opciones": [
+        "Martin Heidegger",
+        "Edmund Husserl",
+        "Karl Jaspers",
+        "Jean-Paul Sartre"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué químico descubrió el flúor en estado libre?",
+      "opciones": [
+        "Henri Moissan",
+        "Dmitri Mendeléyev",
+        "Robert Bunsen",
+        "Justus von Liebig"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién formuló la teoría heliocéntrica en la era moderna?",
+      "opciones": [
+        "Johannes Kepler",
+        "Nicolás Copérnico",
+        "Tycho Brahe",
+        "Galileo Galilei"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el faraón durante la campaña militar contra el pueblo Hitita en Kadesh?",
+      "opciones": [
+        "Tutankamón",
+        "Akhenatón",
+        "Amenhotep III",
+        "Ramsés II"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál es la capital de Mongolia?",
+      "opciones": [
+        "Ulan Bator",
+        "Bishkek",
+        "Tashkent",
+        "Astana"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué historiador bizantino escribió ‘La historia eclesiástica’?",
+      "opciones": [
+        "Procopio de Cesarea",
+        "Evagrius Scholasticus",
+        "Teófanes el Confesor",
+        "Juan Zonaras"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál de estos científicos propuso que la luz se comporta como partícula en su obra ‘Dielectrica’?",
+      "opciones": [
+        "Augustin‑Jean Fresnel",
+        "Isaac Newton",
+        "Christiaan Huygens",
+        "James Clerk Maxwell"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué siglo vivió el poeta persa Ferdowsí?",
+      "opciones": [
+        "Siglo XII",
+        "Siglo X",
+        "Siglo VIII",
+        "Siglo XI"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Quién compuso la ópera ‘Salomé’?",
+      "opciones": [
+        "Claude Debussy",
+        "Richard Strauss",
+        "Giacomo Puccini",
+        "Giuseppe Verdi"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el primer ser humano en orbitar la Tierra?",
+      "opciones": [
+        "Alan Shepard",
+        "Gherman Titov",
+        "Yuri Gagarin",
+        "John Glenn"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es el nombre de la epopeya nacional de Finlandia?",
+      "opciones": [
+        "Mahabharata",
+        "Beowulf",
+        "Kalevala",
+        "Edda"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué año cayó Constantinopla ante el Imperio Otomano?",
+      "opciones": [
+        "1521",
+        "1492",
+        "1453",
+        "1431"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué país nació el compositor Béla Bartók?",
+      "opciones": [
+        "Checoslovaquia",
+        "Hungría",
+        "Polonia",
+        "Austria"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién protagoniza el personaje de Fausto en la obra de Goethe?",
+      "opciones": [
+        "Mefistófeles",
+        "Fausto",
+        "Wagner",
+        "Gretchen"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién pintó ‘La Ronda de noche’?",
+      "opciones": [
+        "Vermeer",
+        "Caravaggio",
+        "Rembrandt",
+        "Rubens"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fue el líder revolucionario chino que estableció la República en 1912?",
+      "opciones": [
+        "Chiang Kai-shek",
+        "Mao Zedong",
+        "Zhou Enlai",
+        "Sun Yat-sen"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál es la obra más famosa del pintor Hieronymus Bosch?",
+      "opciones": [
+        "El jardín de las delicias",
+        "Las tentaciones de San Antonio",
+        "La nave de los insensatos",
+        "El Bosco"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el idioma hablado por los mapuches en Chile y Argentina?",
+      "opciones": [
+        "Aymara",
+        "Guaraní",
+        "Quichua",
+        "Mapudungun"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Quién escribió ‘El corazón de las tinieblas’?",
+      "opciones": [
+        "Robert Louis Stevenson",
+        "Henry James",
+        "Hermann Melville",
+        "Joseph Conrad"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál fue la capital del Imperio judio durante el reinado de Herodes el Grande?",
+      "opciones": [
+        "Tiro",
+        "Alejandría",
+        "Media",
+        "Jerusalén"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué poema épico relata la gesta del héroe Rama en la mitología hindú?",
+      "opciones": [
+        "Mahabharata",
+        "Bhagavad Gita",
+        "Rig‑Veda",
+        "Ramayana"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál es el nombre de la escultura de Miguel Ángel que representa al rey bíblico David?",
+      "opciones": [
+        "San Mateo",
+        "David",
+        "Pietà",
+        "Moisés"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué físico formuló la ley de la termodinámica relacionada con la entropía?",
+      "opciones": [
+        "Sadi Carnot",
+        "William Thomson",
+        "Rudolf Clausius",
+        "Ludwig Boltzmann"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué isla mediterránea fue gobernada por los Caballeros Hospitalarios durante siglos?",
+      "opciones": [
+        "Córcega",
+        "Sicilia",
+        "Rodhe",
+        "Creta"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué escritor japonés ganó el Premio Nobel de Literatura en 1968?",
+      "opciones": [
+        "Yasunari Kawabata",
+        "Kenzaburō Ōe",
+        "Ryūnosuke Akutagawa",
+        "Jun’ichirō Tanizaki"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el nombre del tratado que dividió las zonas de influencia tras la I Guerra Mundial entre Francia y Reino Unido en Oriente Medio?",
+      "opciones": [
+        "Acuerdo Sykes‑Picot",
+        "Tratado de Saint-Germain",
+        "Pacto Kellogg",
+        "Tratado de Versalles"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién es considerado el padre de la historiografía moderna por su obra ‘Historia’?",
+      "opciones": [
+        "Polibio",
+        "Jenofonte",
+        "Tucídides",
+        "Heródoto"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué escritor francés fue decapitado durante la Revolución Francesa?",
+      "opciones": [
+        "Antoine Lavoisier",
+        "Jean‑Jacques Rousseau",
+        "Voltaire",
+        "Denis Diderot"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el nombre del filósofo inglés que formuló el empirismo clásico junto a John Locke?",
+      "opciones": [
+        "George Berkeley",
+        "David Hume",
+        "Isaac Newton",
+        "Francis Bacon"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es el nombre del tratado que puso fin a la guerra de los Treinta Años (1648)?",
+      "opciones": [
+        "Tratado de Utrecht",
+        "Paz de Westfalia",
+        "Tratado de Tordesillas",
+        "Paz de Augsburgo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué poeta árabe es conocido por sus Qasidas en el período preislámico?",
+      "opciones": [
+        "Al‑Mutanabbi",
+        "Imru’ al-Qays",
+        "Mahmud de Ghazni",
+        "Ibn Arabi"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es el nombre del manuscrito medieval que contiene ilustraciones de plantas desconocidas, aún sin descifrar su idioma?",
+      "opciones": [
+        "Códice Mendoza",
+        "Codex Gigas",
+        "Manuscrito Voynich",
+        "Códice Amiatino"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fundó la ciudad de Bagdad en 762 d. C.?",
+      "opciones": [
+        "Al‑Mansur",
+        "Alí",
+        "Abu Bakr",
+        "Harún al‑Rashid"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué reina egipcia fue la última de la dinastía ptolemaica?",
+      "opciones": [
+        "Cleopatra VI",
+        "Nefertiti",
+        "Cleopatra VII",
+        "Hatshepsut"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es la capital de Kazajistán desde 1997?",
+      "opciones": [
+        "Shymkent",
+        "Almatý",
+        "Astana",
+        "Nur‑Sultán"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál fue el primer satélite artificial lanzado al espacio?",
+      "opciones": [
+        "Explorer 1",
+        "Vanguard 1",
+        "Luna 1",
+        "Sputnik 1"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué ciudad fue sede del imperio de los seléucidas después de la muerte de Alejandro Magno?",
+      "opciones": [
+        "Babilonia",
+        "Antioquía",
+        "Pérgamo",
+        "Susa"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién escribió ‘En busca del tiempo perdido’?",
+      "opciones": [
+        "James Joyce",
+        "Virginia Woolf",
+        "Thomas Mann",
+        "Marcel Proust"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál es el nombre del tratado entre Loyola y Felipe II para paz con Francia en 1525?",
+      "opciones": [
+        "Tratado de París",
+        "Tratado de Cambrai",
+        "Paz de Cambrai",
+        "Tratado de Madrid"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es el nombre del pintor que desarrolló el estilo puntillista?",
+      "opciones": [
+        "Vincent van Gogh",
+        "Georges Seurat",
+        "Paul Cézanne",
+        "Pierre Bonnard"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué matemático griego es famoso por su máxima ‘nadie entra dos veces en el mismo río’?",
+      "opciones": [
+        "Heráclito",
+        "Parménides",
+        "Empédocles",
+        "Anaximandro"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el nombre del movimiento poético del Siglo de Oro español con carácter culterano y barroco?",
+      "opciones": [
+        "Conceptismo",
+        "Neoclasicismo",
+        "Romanticismo",
+        "Culteranismo"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál fue la primera novela publicada de James Joyce?",
+      "opciones": [
+        "Ulises",
+        "Finnegans Wake",
+        "Retrato del artista adolescente",
+        "Dublineses"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué isótopo radioactivo fue usado como traza en experimentos de difusión de gases?",
+      "opciones": [
+        "Xenón‑133",
+        "Carbono‑14",
+        "Tritio",
+        "Radón‑222"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué novelista ruso escribió ‘Los hermanos Karamázov’?",
+      "opciones": [
+        "Fiódor Dostoievski",
+        "Antón Chéjov",
+        "Nikolái Gógol",
+        "Lev Tolstói"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el nombre del filósofo que escribió ‘Crítica de la razón pura’?",
+      "opciones": [
+        "Friedrich Schelling",
+        "Georg Hegel",
+        "Immanuel Kant",
+        "Arthur Schopenhauer"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué científico descubrió la radiactividad espontánea en el uranio?",
+      "opciones": [
+        "Pierre Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford",
+        "Marie Curie"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es la galaxia más cercana a la Vía Láctea?",
+      "opciones": [
+        "Gran Nube de Magallanes",
+        "Galaxia del Sombrero",
+        "Andrómeda",
+        "Galaxia del Triángulo"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué reina de Escocia murió tras ser ejecutada por orden de Isabel I de Inglaterra?",
+      "opciones": [
+        "Juana I de Navarra",
+        "Ana Bolena",
+        "Isabel de York",
+        "María Estuardo"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Quién escribió ‘El príncipe’ en el siglo XVI?",
+      "opciones": [
+        "Erasmo de Rotterdam",
+        "Montesquieu",
+        "Maquiavelo",
+        "Tomás Moro"
+      ],
+      "correcta": 3
+    }
+  ]
+}
