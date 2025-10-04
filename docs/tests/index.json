@@ -92,7 +92,7 @@
     },
     {
       "id": "Monumentos del mundo",
-      "url": "./tests/monumentos_mundo.json",
+      "url": "./tests/monumentos_mundo.json"
     },
     {
       "id": "Vinos de España",
