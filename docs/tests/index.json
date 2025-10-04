@@ -51,7 +51,8 @@
     },
     {
       "id": "Series de televisión",
-      "url": "./tests/seriestv.json"
+      "url": "./tests/seriestv.json",
+      "visible": false
     },
     {
       "id": "Cálculo mental rápido",
@@ -91,7 +92,13 @@
     },
     {
       "id": "Monumentos del mundo",
-      "url": "./tests/monumentos_mundo.json"
+      "url": "./tests/monumentos_mundo.json",
+      "visible": true
+    },
+    {
+      "id": "Vinos de España",
+      "url": "./tests/vinos_de_espana.json",
+      "visible": false
     }
   ]
 }

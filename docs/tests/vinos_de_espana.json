@@ -1,0 +1,505 @@
+{
+  "titulo": "Vinos de España",
+  "preguntas": [
+    {
+      "texto": "¿Qué tipo de vino es el Jerez?",
+      "opciones": [
+        "Rosado",
+        "Espumoso",
+        "Generoso",
+        "Blanco joven"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué tipo de vino se produce en Montilla-Moriles?",
+      "opciones": [
+        "Cava",
+        "Generoso",
+        "Rosado",
+        "Tinto joven"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es la uva blanca más plantada en España?",
+      "opciones": [
+        "Airén",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Macabeo"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿De qué provincia es típico el vino de Jumilla?",
+      "opciones": [
+        "Murcia",
+        "Albacete",
+        "Valencia",
+        "Granada"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué uva se asocia al vino Priorat?",
+      "opciones": [
+        "Cabernet Franc",
+        "Syrah",
+        "Garnacha",
+        "Pinot Noir"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué tipo de vino es el Cava?",
+      "opciones": [
+        "Tranquilo",
+        "Espumoso",
+        "Dulce natural",
+        "Generoso"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué región se produce el vino Toro?",
+      "opciones": [
+        "Castilla y León",
+        "Aragón",
+        "Extremadura",
+        "Asturias"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es la principal denominación de origen de Cataluña para vinos espumosos?",
+      "opciones": [
+        "Costers del Segre",
+        "Priorat",
+        "Cava",
+        "Penedès"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué vino español se envejece en criaderas y soleras?",
+      "opciones": [
+        "Rioja",
+        "Cava",
+        "Jerez",
+        "Ribeiro"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es la clasificación superior en los vinos de Rioja?",
+      "opciones": [
+        "Crianza",
+        "Reserva",
+        "Gran Reserva",
+        "Joven"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué región produce el vino de Manzanilla?",
+      "opciones": [
+        "Sanlúcar de Barrameda",
+        "Ronda",
+        "Málaga",
+        "Cádiz"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué vino se produce en la DO Somontano?",
+      "opciones": [
+        "Rosado",
+        "Blanco",
+        "Tinto",
+        "Todos los anteriores"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué uva es base de muchos vinos de Ribera del Guadiana?",
+      "opciones": [
+        "Bobal",
+        "Tempranillo",
+        "Monastrell",
+        "Syrah"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué vino se asocia con la uva Mencía?",
+      "opciones": [
+        "Bierzo",
+        "La Mancha",
+        "Rueda",
+        "Rioja"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué región produce el vino de Utiel-Requena?",
+      "opciones": [
+        "Valencia",
+        "Castilla y León",
+        "Navarra",
+        "Murcia"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué uva predomina en los vinos de Navarra?",
+      "opciones": [
+        "Tempranillo",
+        "Garnacha",
+        "Cabernet Sauvignon",
+        "Syrah"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué uva es característica del vino de Yecla?",
+      "opciones": [
+        "Monastrell",
+        "Bobal",
+        "Syrah",
+        "Tempranillo"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué DO se asocia al vino Godello?",
+      "opciones": [
+        "Valdeorras",
+        "Priorat",
+        "Rueda",
+        "Navarra"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué vino se caracteriza por su sabor salino y ligero gas?",
+      "opciones": [
+        "Txakoli",
+        "Cava",
+        "Ribeiro",
+        "Rueda"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué uva tinta es típica de Priorat junto con Garnacha?",
+      "opciones": [
+        "Cariñena",
+        "Syrah",
+        "Cabernet",
+        "Merlot"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué vino se produce en la comarca del Ribeiro?",
+      "opciones": [
+        "Tinto",
+        "Blanco",
+        "Rosado",
+        "Espumoso"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué uva es característica de los vinos de Rueda?",
+      "opciones": [
+        "Verdejo",
+        "Airén",
+        "Albariño",
+        "Chardonnay"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es la uva más usada en el Cava?",
+      "opciones": [
+        "Macabeo",
+        "Parellada",
+        "Xarel·lo",
+        "Todas las anteriores"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué característica define un vino Reserva?",
+      "opciones": [
+        "Más acidez",
+        "Menos alcohol",
+        "Mayor tiempo de crianza",
+        "Sin madera"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué tipo de vino es el Pedro Ximénez?",
+      "opciones": [
+        "Tinto",
+        "Dulce",
+        "Rosado",
+        "Espumoso"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué vino se caracteriza por sus aromas a frutos rojos y crianza en roble?",
+      "opciones": [
+        "Rioja",
+        "Albariño",
+        "Ribeiro",
+        "Cava"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué tipo de vino se elabora en la DO Condado de Huelva?",
+      "opciones": [
+        "Generoso",
+        "Rosado",
+        "Espumoso",
+        "Tinto"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué vino se elabora con uva Palomino?",
+      "opciones": [
+        "Jerez",
+        "Rioja",
+        "Txakoli",
+        "Cava"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué uva es común en los vinos tintos de La Mancha?",
+      "opciones": [
+        "Tempranillo",
+        "Bobal",
+        "Garnacha",
+        "Syrah"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué vino español se suele maridar con jamón ibérico?",
+      "opciones": [
+        "Rioja",
+        "Jerez",
+        "Albariño",
+        "Ribera del Duero"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué tipo de vino es el 'Fino'?",
+      "opciones": [
+        "Vino tinto joven",
+        "Vino blanco dulce",
+        "Vino espumoso",
+        "Vino fortificado seco"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué significa 'Cava'?",
+      "opciones": [
+        "Bodega",
+        "Cueva",
+        "Uva",
+        "Barrica"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué región es la mayor productora de vino de España?",
+      "opciones": [
+        "La Rioja",
+        "Castilla-La Mancha",
+        "Cataluña",
+        "Andalucía"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué vino se produce en la región de Priorat?",
+      "opciones": [
+        "Vinos tintos potentes",
+        "Vinos blancos ligeros",
+        "Vinos espumosos",
+        "Vinos dulces"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué tipo de vino es el 'Oloroso'?",
+      "opciones": [
+        "Vino blanco afrutado",
+        "Vino tinto joven",
+        "Vino fortificado seco",
+        "Vino espumoso"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué provincia se encuentra la DO Rías Baixas?",
+      "opciones": [
+        "La Coruña",
+        "Lugo",
+        "Pontevedra",
+        "Orense"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué uva se utiliza para el vino de Cigales?",
+      "opciones": [
+        "Tinta de Toro",
+        "Tempranillo",
+        "Garnacha",
+        "Prieto Picudo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué región produce vinos de la uva Monastrell?",
+      "opciones": [
+        "Murcia",
+        "Galicia",
+        "País Vasco",
+        "Aragón"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué DO produce vinos en las Islas Canarias?",
+      "opciones": [
+        "Tacoronte-Acentejo",
+        "La Palma",
+        "Abona",
+        "Todas las anteriores"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué año se creó la Denominación de Origen Rioja?",
+      "opciones": [
+        "1925",
+        "1932",
+        "1945",
+        "1956"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué vino se produce en la DO Montilla-Moriles?",
+      "opciones": [
+        "Vinos similares al Jerez",
+        "Vinos tintos jóvenes",
+        "Vinos espumosos",
+        "Vinos rosados"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué tipo de vino es el 'Palo Cortado'?",
+      "opciones": [
+        "Vino tinto",
+        "Vino blanco",
+        "Vino fortificado",
+        "Vino espumoso"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué DO produce vinos en la región de Aragón?",
+      "opciones": [
+        "Campo de Borja",
+        "Calatayud",
+        "Cariñena",
+        "Todas las anteriores"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué uva es autóctona de la DO Ribeira Sacra?",
+      "opciones": [
+        "Mencía",
+        "Godello",
+        "Ambas",
+        "Ninguna"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué provincia se encuentra la DO Ribera del Duero?",
+      "opciones": [
+        "Burgos",
+        "Valladolid",
+        "Soria",
+        "Todas las anteriores"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué DO produce vinos en las Islas Baleares?",
+      "opciones": [
+        "Binissalem",
+        "Pla i Llevant",
+        "Ambas",
+        "Ninguna"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué uva es característica de la DO Empordà?",
+      "opciones": [
+        "Garnacha",
+        "Cariñena",
+        "Ambas",
+        "Ninguna"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué uva se utiliza para el vino de Jerez?",
+      "opciones": [
+        "Palomino",
+        "Pedro Ximénez",
+        "Moscatel",
+        "Todas las anteriores"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué región produce vinos de la uva Treixadura?",
+      "opciones": [
+        "Ribeiro",
+        "Rías Baixas",
+        "Valdeorras",
+        "Ribeira Sacra"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué uva es autóctona de la DO Utiel-Requena?",
+      "opciones": [
+        "Bobal",
+        "Monastrell",
+        "Garnacha",
+        "Tempranillo"
+      ],
+      "correcta": 1
+    }
+  ]
+}
