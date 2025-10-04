@@ -1,0 +1,505 @@
+{
+  "titulo": "Estatuto Adif",
+  "preguntas": [
+    {
+      "texto": "¿En qué año se aprobó el primer Estatuto de Adif?",
+      "opciones": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es el órgano responsable de la regulación del personal en Adif?",
+      "opciones": [
+        "Consejo de Administración",
+        "Dirección de Recursos Humanos",
+        "Ministerio de Transporte",
+        "Junta General"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "El Estatuto de Adif establece que el personal podrá pertenecer a escalas profesionales. ¿Cuántas escalas se contemplan?",
+      "opciones": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "Según el Estatuto, ¿qué principio debe regir la provisión de puestos?",
+      "opciones": [
+        "Antigüedad",
+        "Mérito y capacidad",
+        "Sorteo",
+        "Cuota fija"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "El Estatuto regula la capacidad y competencia. ¿Cuál se considera requisito previo para ascenso?",
+      "opciones": [
+        "Titulación universitaria",
+        "Experiencia mínima",
+        "Aprobación de pruebas",
+        "Formación obligatoria"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cómo se denomina el régimen disciplinario contemplado en el Estatuto de Adif?",
+      "opciones": [
+        "Código Adif",
+        "Régimen interno",
+        "Régimen disciplinario objetivo",
+        "Normas de conducta"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué tipo de incompatibilidades regula el Estatuto de Adif?",
+      "opciones": [
+        "Con actividades privadas",
+        "Con cargos públicos",
+        "Con las ONG",
+        "Con sindicatos"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es la duración máxima del período de prueba según el Estatuto?",
+      "opciones": [
+        "6 meses",
+        "9 meses",
+        "12 meses",
+        "3 meses"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "El Estatuto establece complementos retributivos. ¿Cuál de los siguientes no es uno de ellos?",
+      "opciones": [
+        "Complemento de residencia",
+        "Complemento de productividad",
+        "Complemento de turno",
+        "Complemento de riesgo"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál de estas competencias no le corresponde al Consejo de Administración según el Estatuto?",
+      "opciones": [
+        "Aprobar presupuesto",
+        "Nombrar directores",
+        "Definir retribuciones",
+        "Gestionar personal operativo"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué derecho reconoce el Estatuto en cuanto al acceso a cursos de formación?",
+      "opciones": [
+        "Derecho condicionado",
+        "Derecho individual y colectivo",
+        "Derecho discrecional",
+        "Derecho delegado"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "Según el Estatuto, ¿qué ocurre si un empleado acumula sanciones leves repetidas?",
+      "opciones": [
+        "Pérdida de escala",
+        "Apercibimiento público",
+        "Revisión de competencias",
+        "Suma de sanciones"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "El Estatuto define sedes de servicio. ¿Pueden trasladarse sin compensación?",
+      "opciones": [
+        "Sí",
+        "Solo con acuerdo",
+        "Con indemnización",
+        "Nunca"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué normativa complementaria señala el Estatuto como de aplicación obligada?",
+      "opciones": [
+        "Estatuto básico del empleado público",
+        "Ley de ferrocarriles",
+        "Código penal laboral",
+        "Ley orgánica de sindicatos"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el paso obligatorio para aplicar una sanción grave según el Estatuto?",
+      "opciones": [
+        "Informe del comité",
+        "Resolución motivada",
+        "Suspensión preventiva",
+        "Audiencia del afectado"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "En el Estatuto, ¿qué se entiende por retribución básica?",
+      "opciones": [
+        "Salario base",
+        "Salario base más complemento",
+        "Retribución variable",
+        "Retribución en especie"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué concepto introduce el Estatuto para fomentar la transferencia interna?",
+      "opciones": [
+        "Movilidad obligatoria",
+        "Movilidad voluntaria",
+        "Movilidad selectiva",
+        "Movilidad rotatoria"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "Según el Estatuto, ¿cuál es el órgano competente para resolver reclamaciones?",
+      "opciones": [
+        "Dirección General",
+        "Consejo de Administración",
+        "Comisión de Recursos",
+        "Junta de Personal"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué límite temporal impone el Estatuto para resolver un recurso interno?",
+      "opciones": [
+        "1 mes",
+        "2 meses",
+        "3 meses",
+        "15 días"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "De acuerdo con el Estatuto, ¿puede un trabajador negarse a cambio de turno si existe causa justificada?",
+      "opciones": [
+        "No",
+        "Sí",
+        "Solo en festivos",
+        "Solo con autorización"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cómo debe acreditarse la capacidad para ciertos puestos según el Estatuto?",
+      "opciones": [
+        "Certificados privados",
+        "Informe de jefe directo",
+        "Mediante concurso-oposición",
+        "Por antigüedad"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué tratamiento retributivo contempla el Estatuto para desplazamientos?",
+      "opciones": [
+        "Dietas y kilometraje",
+        "Solo kilometraje",
+        "Solo dietas",
+        "Ninguno"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué principio de igualdad reconoce el Estatuto en materia de personal?",
+      "opciones": [
+        "Igual salario",
+        "Igual trato",
+        "Igual oportunidad",
+        "Igual antigüedad"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué régimen especial de Seguridad Social puede prever el Estatuto?",
+      "opciones": [
+        "Regímenes autonómicos",
+        "Régimen general",
+        "Régimen especial ferroviario",
+        "Régimen agrario"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué debe contener el nombramiento del personal según el Estatuto?",
+      "opciones": [
+        "Fecha de nacimiento",
+        "Retribución y puesto",
+        "Firma del superior",
+        "Antigüedad exacta"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "Según el Estatuto, ¿qué sucede con el personal interino si se declara la plaza definitiva?",
+      "opciones": [
+        "Debe abandonar el puesto",
+        "Tiene derecho a consolidación",
+        "Pasa a fijo directo",
+        "Debe concursar"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué ámbito geográfico establece el Estatuto para su aplicación?",
+      "opciones": [
+        "Nacional",
+        "Autonómico",
+        "Provincial",
+        "Municipal"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué clase de permiso regula el Estatuto para asuntos particulares?",
+      "opciones": [
+        "Remunerado",
+        "No remunerado",
+        "Obligatorio",
+        "Voluntario"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es el carácter del Estatuto: supletorio o imperativo?",
+      "opciones": [
+        "Supletorio",
+        "Imperativo",
+        "Discrecional",
+        "Complementario"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Puede Adif fijar subescalas en virtud del Estatuto?",
+      "opciones": [
+        "Sí, mediante reglamento",
+        "No",
+        "Solo en casos especiales",
+        "Con acuerdo sindical"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué obligación establece el Estatuto al personal en cuanto al secreto profesional?",
+      "opciones": [
+        "Absoluto",
+        "Parcial",
+        "Sólo para información sensible",
+        "No obliga"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "Según el Estatuto, ¿qué documento personal debe presentar el aspirante para acceso?",
+      "opciones": [
+        "Certificado penales",
+        "Título universitario",
+        "Informe médico",
+        "Certificado de residencia"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué ocurre si un trabajador ejerce actividad prohibida según el Estatuto?",
+      "opciones": [
+        "Advertencia",
+        "Sanción disciplinaria",
+        "Suspensión automática",
+        "Despido directo"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es la competencia del Estatuto en cuanto a evaluación del desempeño?",
+      "opciones": [
+        "Obligatoria anual",
+        "Discrecional",
+        "Bienal",
+        "No prevista"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué sistema de provisión contempla el Estatuto para puestos directivos?",
+      "opciones": [
+        "Libre designación",
+        "Concurso interno",
+        "Remoción directa",
+        "Sorteo interno"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué requisito temporal mínimo fija el Estatuto para optar a la promoción interna?",
+      "opciones": [
+        "6 meses",
+        "1 año",
+        "2 años",
+        "3 años"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "Según el Estatuto, ¿cuándo prescriben las sanciones?",
+      "opciones": [
+        "6 meses",
+        "1 año",
+        "2 años",
+        "3 años"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué derecho de conciliación regula el Estatuto?",
+      "opciones": [
+        "Reducción de jornada",
+        "Teletrabajo",
+        "Permiso retribuido",
+        "Modificación horaria"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué principio de estabilidad contempla el Estatuto?",
+      "opciones": [
+        "Interinidad limitada",
+        "Fijeza perpetua",
+        "Rotación obligatoria",
+        "Contrato temporal indefinido"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Tiene el personal derecho a equiparación con otros cuerpos públicos según el Estatuto?",
+      "opciones": [
+        "Sí en todos los conceptos",
+        "Solo en algunos",
+        "No",
+        "Solo si lo acuerda Adif"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué condiciones exige el Estatuto para una comisión de servicio?",
+      "opciones": [
+        "Sin retribución adicional",
+        "Conmutativa",
+        "Temporal y justificada",
+        "Permanente"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué mecanismo regula el Estatuto para el diálogo con representantes?",
+      "opciones": [
+        "Mesa sectorial",
+        "Audiencias públicas",
+        "Consejo laboral",
+        "Asamblea general"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué título profesional podría exigirse para puestos técnicos según el Estatuto?",
+      "opciones": [
+        "Ingeniero",
+        "Doctorado",
+        "Maestría",
+        "Certificado profesional"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué se reconoce al trabajador en caso de traslado forzoso según el Estatuto?",
+      "opciones": [
+        "Indemnización",
+        "Alojamiento gratuito",
+        "Ninguna compensación",
+        "Permiso retribuido"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué regla aplica el Estatuto si hay empate en concurso interno?",
+      "opciones": [
+        "Antigüedad",
+        "Mayor titulación",
+        "Sorteo",
+        "Mayor edad"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué régimen jurídico de contratación reconfirma el Estatuto?",
+      "opciones": [
+        "Derecho administrativo",
+        "Derecho privado",
+        "Derecho laboral común",
+        "Derecho especial ferroviario"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué alcance tiene el Estatuto frente a otras normativas especiales?",
+      "opciones": [
+        "Prevalece siempre",
+        "Es supletorio",
+        "Deroga otras",
+        "Complementa otras"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué establece el Estatuto sobre la representación de los trabajadores?",
+      "opciones": [
+        "Solo delegados sindicales",
+        "Comités de empresa y delegados",
+        "Exclusivamente el consejo",
+        "No establece"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué principio rige la negociación colectiva según el Estatuto?",
+      "opciones": [
+        "Autonomía colectiva",
+        "Arbitraje obligatorio",
+        "Acuerdo ministerial",
+        "Decisión unilateral de Adif"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué documento regula de forma complementaria la jornada y horarios en Adif?",
+      "opciones": [
+        "Reglamento de Régimen Interno",
+        "Convenio colectivo",
+        "Orden ministerial",
+        "Acuerdo del consejo"
+      ],
+      "correcta": 2
+    }
+  ]
+}

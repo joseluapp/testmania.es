@@ -103,11 +103,6 @@
       "id": "Estatuto Adif",
       "url": "./tests/estatuto_adif.json",
       "visible": false
-    },
-    {
-      "id": "kk",
-      "url": "./tests/kk.json",
-      "visible": false
     }
   ]
 }
