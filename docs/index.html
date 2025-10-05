@@ -37,6 +37,25 @@
 
 <body>
     <div id="root"></div>
+    <script>
+/* Consumir ?redirect=... y restaurar la URL real antes de arrancar la app */
+(function () {
+  var params = new URLSearchParams(window.location.search);
+  var redir = params.get('redirect');
+  if (redir) {
+    try {
+      // reconstruye la URL como /<redir> + hash, y quita ?redirect=...
+      var newPath = '/' + decodeURIComponent(redir.replace(/^\//,''));
+      var newUrl = window.location.origin + newPath + window.location.hash;
+      window.history.replaceState({}, '', newUrl);
+    } catch (e) {
+      // fallback: si algo falla, al menos quita el querystring
+      window.history.replaceState({}, '', window.location.origin + '/' + window.location.hash);
+    }
+  }
+})();
+</script>
+
     <script src="./app.iife.js"></script>
     <script>
         window.addEventListener('DOMContentLoaded', () => {
@@ -48,5 +67,6 @@
         });
     </script>
 </body>
+
 
 </html>
