@@ -1,86 +1,55 @@
-<!doctype html>
-<html>
-
+<!DOCTYPE html>
+<html lang="es">
 <head>
-    <script>
-/* SPA redirect para GitHub Pages:
-   si la ruta no es "/" (ni /index.html), redirige a "/?redirect=<path>" */
-(function () {
-  var l = window.location;
-  if (l.pathname !== '/' && !l.pathname.startsWith('/index.html')) {
-    l.replace(
-      l.protocol + '//' + l.host + '/?redirect=' +
-      encodeURIComponent(l.pathname.replace(/^\//, '')) +
-      l.search + l.hash
-    );
-  }
-})();
-</script>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Redirigiendo…</title>
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <!-- Open Graph -->
-    <meta property="og:title" content="TestMania.es" />
-    <meta property="og:description"
-        content="Crea tests sobre cualquier tema de forma muy fácil y pon a prueba tus conocimientos en segundos" />
-    <meta property="og:image" content="https://www.testmania.es/favicon.png" />
-    <meta property="og:url" content="https://www.testmania.es/" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://www.testmania.es/preview.png" />
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="TestMania.es" />
-    <meta name="twitter:description"
-        content="Crea tests sobre cualquier tema de forma muy fácil y pon a prueba tus conocimientos en segundos" />
-    <meta name="twitter:image" content="https://www.testmania.es/favicon.png" />
-    <meta name="twitter:image" content="https://www.testmania.es/preview.png" />
+  <!--
+    404 para SPA en GitHub Pages (dominio raíz)
+    - Si el servidor devuelve 404 para /algo, redirigimos a /?redirect=algo
+    - index.html debe incluir un script que consuma ?redirect= y restaure la URL
+  -->
 
-
-    <title>TestMania.es – Crea y resuelve tests</title>
-    <link rel="icon" href="./favicon.png" type="image/png" />
-    <link rel="stylesheet" href="./app.css" />
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-S2PCL55Z8N"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'G-S2PCL55Z8N');
-    </script>
-</head>
-
-
-<body>
-    <div id="root"></div>
-    <script>
-/* Consumir ?redirect=... y restaurar la URL real antes de arrancar la app */
-(function () {
-  var params = new URLSearchParams(window.location.search);
-  var redir = params.get('redirect');
-  if (redir) {
+  <script>
+  (function () {
     try {
-      var newPath = '/' + decodeURIComponent(redir.replace(/^\//, ''));
-      var newUrl = window.location.origin + newPath + window.location.hash;
-      window.history.replaceState({}, '', newUrl);
+      var l = window.location;
+
+      // Si ya estamos en raíz o en index.html, no hacemos nada
+      if (l.pathname === "/" || l.pathname === "/index.html") return;
+
+      // Construimos la URL /?redirect=<ruta> + query + hash
+      var path = l.pathname.replace(/^\//, "");         // sin barra inicial
+      var qp   = l.search || "";                        // ?query
+      var h    = l.hash || "";                          // #hash
+
+      var url = l.protocol + "//" + l.host + "/?redirect=" + encodeURIComponent(path) + qp + h;
+
+      // Reemplaza la URL actual por la de redirección (sin generar entrada en el historial)
+      l.replace(url);
     } catch (e) {
-      window.history.replaceState({}, '', window.location.origin + '/' + window.location.hash);
+      // Fallback: ir a la home
+      try { window.location.replace("/"); } catch (_) {}
     }
-  }
-})();
-</script>
+  })();
+  </script>
 
-    <script src="./app.iife.js"></script>
-    <script>
-        window.addEventListener('DOMContentLoaded', () => {
-            if (!window.TestManiaApp) {
-                console.error('TestManiaApp no está definido');
-                return;
-            }
-            window.TestManiaApp.mount('#root');
-        });
-    </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=/" />
+  </noscript>
+
+  <style>
+    html,body{height:100%} body{display:flex;align-items:center;justify-content:center;font-family:ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial}
+    .box{max-width:640px;padding:24px;text-align:center}
+    .muted{color:#6b7280}
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Redirigiendo…</h1>
+    <p class="muted">Si no ocurre automáticamente, <a href="/">haz clic aquí para ir al inicio</a>.</p>
+  </div>
 </body>
-
-
 </html>
-
