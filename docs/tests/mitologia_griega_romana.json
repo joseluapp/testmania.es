@@ -3,104 +3,94 @@
   "tags": "mitología, cultura, historia",
   "preguntas": [
     {
-      "texto": "¿Dios supremo del panteón griego?",
+      "texto": "¿Quién decapitó a Medusa?",
       "opciones": [
-        "Ares",
-        "Poseidón",
-        "Zeus",
-        "Hades"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Nombre romano de Zeus?",
-      "opciones": [
-        "Saturno",
-        "Marte",
-        "Neptuno",
-        "Júpiter"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Diosa griega de la sabiduría?",
-      "opciones": [
-        "Hera",
-        "Atenea",
-        "Afrodita",
-        "Ártemis"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Nombre romano de Atenea?",
-      "opciones": [
-        "Diana",
-        "Venus",
-        "Juno",
-        "Minerva"
+        "Belerofonte",
+        "Heracles",
+        "Teseo",
+        "Perseo"
       ],
       "correcta": 4
     },
     {
       "texto": "¿Dios griego del mar?",
       "opciones": [
-        "Poseidón",
+        "Hermes",
         "Hades",
         "Apolo",
-        "Hermes"
+        "Poseidón"
       ],
-      "correcta": 1
+      "correcta": 4
     },
     {
-      "texto": "¿Nombre romano de Poseidón?",
+      "texto": "¿Héroe de los doce trabajos?",
       "opciones": [
-        "Plutón",
-        "Vulcano",
-        "Neptuno",
-        "Mercurio"
+        "Eneas",
+        "Aquiles",
+        "Heracles",
+        "Odiseo"
       ],
       "correcta": 3
     },
     {
-      "texto": "¿Mensajero de los dioses en la mitología griega?",
+      "texto": "¿Quién ayudó a Teseo con el hilo en el laberinto?",
       "opciones": [
-        "Hermes",
-        "Ares",
-        "Dioniso",
-        "Hefesto"
+        "Penélope",
+        "Fedra",
+        "Helena",
+        "Ariadna"
       ],
-      "correcta": 1
+      "correcta": 4
     },
     {
-      "texto": "¿Nombre romano de Hermes?",
+      "texto": "¿Quién es la madre de Eneas?",
       "opciones": [
-        "Vulcano",
-        "Mercurio",
-        "Marte",
-        "Baco"
+        "Ceres",
+        "Venus",
+        "Minerva",
+        "Juno"
       ],
       "correcta": 2
     },
     {
-      "texto": "¿Diosa griega del amor y la belleza?",
+      "texto": "¿Nombre romano de Hefesto?",
       "opciones": [
-        "Hera",
-        "Deméter",
-        "Hestia",
-        "Afrodita"
+        "Mercurio",
+        "Saturno",
+        "Fauno",
+        "Vulcano"
       ],
       "correcta": 4
     },
     {
-      "texto": "¿Nombre romano de Afrodita?",
+      "texto": "¿Quién perdió el control del carro del Sol y cayó a la Tierra?",
       "opciones": [
-        "Ceres",
-        "Vesta",
-        "Juno",
-        "Venus"
+        "Ícaro",
+        "Tántalo",
+        "Faetón",
+        "Belerofonte"
       ],
-      "correcta": 4
+      "correcta": 3
+    },
+    {
+      "texto": "¿Dios griego del fuego y la forja?",
+      "opciones": [
+        "Eros",
+        "Hefesto",
+        "Apolo",
+        "Ares"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién abrió la famosa caja (en realidad, un ánfora) liberando males al mundo?",
+      "opciones": [
+        "Penélope",
+        "Pandora",
+        "Circe",
+        "Casandra"
+      ],
+      "correcta": 2
     },
     {
       "texto": "¿Dios griego de la guerra?",
@@ -113,72 +103,82 @@
       "correcta": 1
     },
     {
-      "texto": "¿Nombre romano de Ares?",
+      "texto": "¿Diosa griega del amor y la belleza?",
       "opciones": [
-        "Saturno",
-        "Jano",
-        "Marte",
-        "Cupido"
+        "Afrodita",
+        "Deméter",
+        "Hestia",
+        "Hera"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién lideró a los Argonautas?",
+      "opciones": [
+        "Teseo",
+        "Perseo",
+        "Giasón",
+        "Aquiles"
       ],
       "correcta": 3
+    },
+    {
+      "texto": "¿Nombre romano de Hera?",
+      "opciones": [
+        "Juno",
+        "Vesta",
+        "Fortuna",
+        "Ceres"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Nombre romano de Eros?",
+      "opciones": [
+        "Priapo",
+        "Anteros",
+        "Himeneo",
+        "Cupido"
+      ],
+      "correcta": 4
     },
     {
       "texto": "¿Quién gobierna el inframundo en la mitología griega?",
       "opciones": [
         "Hades",
-        "Crono",
         "Urano",
-        "Pan"
+        "Pan",
+        "Crono"
       ],
       "correcta": 1
     },
     {
-      "texto": "¿Nombre romano de Hades?",
+      "texto": "¿Nombre romano de Dioniso?",
       "opciones": [
-        "Vulcano",
-        "Neptuno",
         "Quirino",
-        "Plutón"
+        "Jano",
+        "Marte",
+        "Baco"
       ],
       "correcta": 4
     },
     {
-      "texto": "¿Diosa griega de la caza?",
+      "texto": "¿Diosa griega de la sabiduría?",
       "opciones": [
-        "Hera",
         "Atenea",
         "Ártemis",
-        "Iris"
+        "Afrodita",
+        "Hera"
       ],
-      "correcta": 3
+      "correcta": 1
     },
     {
-      "texto": "¿Nombre romano de Ártemis?",
+      "texto": "¿Nombre romano de Hestia?",
       "opciones": [
-        "Diana",
         "Vesta",
-        "Bellona",
-        "Aurora"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Dios griego del fuego y la forja?",
-      "opciones": [
-        "Hefesto",
-        "Ares",
-        "Eros",
-        "Apolo"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Nombre romano de Hefesto?",
-      "opciones": [
-        "Vulcano",
-        "Mercurio",
-        "Saturno",
-        "Fauno"
+        "Fortuna",
+        "Minerva",
+        "Ceres"
       ],
       "correcta": 1
     },
@@ -186,21 +186,141 @@
       "texto": "¿Dios griego asociado con el sol y la música?",
       "opciones": [
         "Helios",
-        "Eolo",
         "Morfeo",
+        "Apolo",
+        "Eolo"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Nombre romano de Poseidón?",
+      "opciones": [
+        "Mercurio",
+        "Vulcano",
+        "Plutón",
+        "Neptuno"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué titán devoró a sus hijos para evitar ser destronado?",
+      "opciones": [
+        "Crono",
+        "Jápeto",
+        "Hiperión",
+        "Océano"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Ser mitológico mitad hombre y mitad toro?",
+      "opciones": [
+        "Sátiro",
+        "Centauro",
+        "Minotauro",
+        "Quimera"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Mensajero de los dioses en la mitología griega?",
+      "opciones": [
+        "Hefesto",
+        "Hermes",
+        "Dioniso",
+        "Ares"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Diosa griega del hogar y la lumbre?",
+      "opciones": [
+        "Hestia",
+        "Iris",
+        "Hebe",
+        "Deméter"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Nombre romano de Ares?",
+      "opciones": [
+        "Saturno",
+        "Cupido",
+        "Marte",
+        "Jano"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Diosa griega de la caza?",
+      "opciones": [
+        "Ártemis",
+        "Hera",
+        "Iris",
+        "Atenea"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué dios es padre de Rómulo y Remo según la tradición?",
+      "opciones": [
+        "Marte",
+        "Júpiter",
+        "Saturno",
+        "Neptuno"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Nombre romano de Apolo?",
+      "opciones": [
+        "Jano",
+        "Baco",
+        "Vulcano",
         "Apolo"
       ],
       "correcta": 4
     },
     {
-      "texto": "¿Nombre romano de Apolo?",
+      "texto": "¿Nombre romano de Heracles?",
       "opciones": [
-        "Vulcano",
-        "Apolo",
-        "Baco",
-        "Jano"
+        "Rómulo",
+        "Hércules",
+        "Eneas",
+        "Mercurio"
       ],
       "correcta": 2
+    },
+    {
+      "texto": "¿En qué monte residían los dioses olímpicos según la tradición griega?",
+      "opciones": [
+        "Taigeto",
+        "Olimpo",
+        "Etna",
+        "Parnaso"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién robó el fuego a los dioses para entregárselo a los hombres?",
+      "opciones": [
+        "Ícaro",
+        "Atlas",
+        "Epimeteo",
+        "Prometeo"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Nombre romano de Zeus?",
+      "opciones": [
+        "Neptuno",
+        "Saturno",
+        "Marte",
+        "Júpiter"
+      ],
+      "correcta": 4
     },
     {
       "texto": "¿Diosa griega del matrimonio y la familia?",
@@ -213,234 +333,114 @@
       "correcta": 1
     },
     {
-      "texto": "¿Nombre romano de Hera?",
-      "opciones": [
-        "Ceres",
-        "Juno",
-        "Vesta",
-        "Fortuna"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Diosa griega del hogar y la lumbre?",
-      "opciones": [
-        "Hestia",
-        "Deméter",
-        "Hebe",
-        "Iris"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Nombre romano de Hestia?",
-      "opciones": [
-        "Ceres",
-        "Vesta",
-        "Fortuna",
-        "Minerva"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Diosa griega de la agricultura?",
-      "opciones": [
-        "Perséfone",
-        "Rea",
-        "Selene",
-        "Deméter"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Nombre romano de Deméter?",
-      "opciones": [
-        "Ceres",
-        "Proserpina",
-        "Ops",
-        "Tellus"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Quién decapitó a Medusa?",
-      "opciones": [
-        "Teseo",
-        "Heracles",
-        "Perseo",
-        "Belerofonte"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Héroe de los doce trabajos?",
-      "opciones": [
-        "Aquiles",
-        "Heracles",
-        "Odiseo",
-        "Eneas"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Nombre romano de Heracles?",
-      "opciones": [
-        "Mercurio",
-        "Hércules",
-        "Rómulo",
-        "Eneas"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Madre de Perseo?",
-      "opciones": [
-        "Andrómeda",
-        "Alcmena",
-        "Dánae",
-        "Leda"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Quién abrió la famosa caja (en realidad, un ánfora) liberando males al mundo?",
-      "opciones": [
-        "Pandora",
-        "Casandra",
-        "Penélope",
-        "Circe"
-      ],
-      "correcta": 1
-    },
-    {
-      "texto": "¿Qué dios es padre de Rómulo y Remo según la tradición?",
-      "opciones": [
-        "Júpiter",
-        "Saturno",
-        "Neptuno",
-        "Marte"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Ser mitológico mitad hombre y mitad toro?",
-      "opciones": [
-        "Centauro",
-        "Sátiro",
-        "Minotauro",
-        "Quimera"
-      ],
-      "correcta": 3
-    },
-    {
       "texto": "¿Rey cretense que exigía tributos de jóvenes a Atenas?",
       "opciones": [
-        "Egeo",
         "Príamo",
-        "Agamenón",
-        "Minos"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Héroe que dio muerte al Minotauro?",
-      "opciones": [
-        "Perseo",
-        "Orfeo",
-        "Ayax",
-        "Teseo"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Quién ayudó a Teseo con el hilo en el laberinto?",
-      "opciones": [
-        "Fedra",
-        "Helena",
-        "Ariadna",
-        "Penélope"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Esposa de Odiseo?",
-      "opciones": [
-        "Helena",
-        "Circe",
-        "Nausícaa",
-        "Penélope"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Quién domó a Pegaso?",
-      "opciones": [
-        "Perseo",
-        "Heracles",
-        "Belerofonte",
-        "Teseo"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Nombre romano de Dioniso?",
-      "opciones": [
-        "Marte",
-        "Jano",
-        "Quirino",
-        "Baco"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Diosa griega de la victoria?",
-      "opciones": [
-        "Némesis",
-        "Iris",
-        "Niké",
-        "Tique"
-      ],
-      "correcta": 3
-    },
-    {
-      "texto": "¿Quién es la madre de Eneas?",
-      "opciones": [
-        "Juno",
-        "Minerva",
-        "Ceres",
-        "Venus"
-      ],
-      "correcta": 4
-    },
-    {
-      "texto": "¿Quién es el padre de Eneas?",
-      "opciones": [
-        "Laertes",
-        "Anquises",
-        "Anchinoo",
+        "Minos",
+        "Egeo",
         "Agamenón"
       ],
       "correcta": 2
     },
     {
-      "texto": "¿Qué héroe tocaba la lira y buscó rescatar a Eurídice del Hades?",
+      "texto": "¿Quién domó a Pegaso?",
       "opciones": [
-        "Paris",
-        "Giasón",
-        "Orfeo",
-        "Héctor"
+        "Teseo",
+        "Perseo",
+        "Belerofonte",
+        "Heracles"
       ],
       "correcta": 3
     },
     {
-      "texto": "¿Quién lideró a los Argonautas?",
+      "texto": "¿Dios supremo del panteón griego?",
       "opciones": [
-        "Perseo",
-        "Aquiles",
-        "Giasón",
-        "Teseo"
+        "Zeus",
+        "Ares",
+        "Poseidón",
+        "Hades"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Esposa de Odiseo?",
+      "opciones": [
+        "Circe",
+        "Nausícaa",
+        "Helena",
+        "Penélope"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Nombre romano de Hades?",
+      "opciones": [
+        "Neptuno",
+        "Quirino",
+        "Plutón",
+        "Vulcano"
       ],
       "correcta": 3
+    },
+    {
+      "texto": "¿Nombre romano de Deméter?",
+      "opciones": [
+        "Ceres",
+        "Ops",
+        "Tellus",
+        "Proserpina"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Nombre romano de Afrodita?",
+      "opciones": [
+        "Juno",
+        "Ceres",
+        "Venus",
+        "Vesta"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Diosa griega de la agricultura?",
+      "opciones": [
+        "Rea",
+        "Deméter",
+        "Selene",
+        "Perséfone"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién es el padre de Eneas?",
+      "opciones": [
+        "Anchinoo",
+        "Agamenón",
+        "Anquises",
+        "Laertes"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Nombre romano de Ártemis?",
+      "opciones": [
+        "Aurora",
+        "Bellona",
+        "Vesta",
+        "Diana"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué héroe tocaba la lira y buscó rescatar a Eurídice del Hades?",
+      "opciones": [
+        "Héctor",
+        "Orfeo",
+        "Giasón",
+        "Paris"
+      ],
+      "correcta": 2
     },
     {
       "texto": "¿Qué criatura custodiaba el Vellocino de Oro?",
@@ -453,54 +453,54 @@
       "correcta": 3
     },
     {
-      "texto": "¿Qué titán devoró a sus hijos para evitar ser destronado?",
+      "texto": "¿Diosa griega de la victoria?",
       "opciones": [
-        "Crono",
-        "Océano",
-        "Jápeto",
-        "Hiperión"
+        "Iris",
+        "Tique",
+        "Niké",
+        "Némesis"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Héroe que dio muerte al Minotauro?",
+      "opciones": [
+        "Perseo",
+        "Teseo",
+        "Orfeo",
+        "Ayax"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Madre de Perseo?",
+      "opciones": [
+        "Dánae",
+        "Leda",
+        "Alcmena",
+        "Andrómeda"
       ],
       "correcta": 1
     },
     {
-      "texto": "¿En qué monte residían los dioses olímpicos según la tradición griega?",
+      "texto": "¿Nombre romano de Atenea?",
       "opciones": [
-        "Parnaso",
-        "Olimpo",
-        "Etna",
-        "Taigeto"
+        "Minerva",
+        "Venus",
+        "Juno",
+        "Diana"
       ],
-      "correcta": 2
+      "correcta": 1
     },
     {
-      "texto": "¿Quién robó el fuego a los dioses para entregárselo a los hombres?",
+      "texto": "¿Nombre romano de Hermes?",
       "opciones": [
-        "Epimeteo",
-        "Prometeo",
-        "Atlas",
-        "Ícaro"
+        "Mercurio",
+        "Marte",
+        "Baco",
+        "Vulcano"
       ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Nombre romano de Eros?",
-      "opciones": [
-        "Anteros",
-        "Cupido",
-        "Himeneo",
-        "Priapo"
-      ],
-      "correcta": 2
-    },
-    {
-      "texto": "¿Quién perdió el control del carro del Sol y cayó a la Tierra?",
-      "opciones": [
-        "Ícaro",
-        "Faetón",
-        "Belerofonte",
-        "Tántalo"
-      ],
-      "correcta": 2
+      "correcta": 1
     }
   ]
 }
