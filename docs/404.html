@@ -1,52 +1,31 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="x-ua-compatible" content="ie=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Redirigiendo…</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <!-- SPA redirect para GitHub Pages:
-       - Si el servidor devuelve 404 en /algo, redirigimos a /?redirect=algo
-       - Luego index.html (ya lo tienes) consumirá ?redirect= y restaurará la URL bonita -->
-  <script>
-  (function () {
-    try {
-      var l = window.location;
+    <title>TestMania</title>
 
-      // Si ya estamos en / o /index.html no hacemos nada
-      if (l.pathname === "/" || l.pathname === "/index.html") return;
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="stylesheet" href="/app.css" />
 
-      // Construye /?redirect=<ruta-sin-barra> + query + hash
-      var path = l.pathname.replace(/^\//, "");
-      var qs   = l.search || "";
-      var h    = l.hash || "";
-      var url  = l.protocol + "//" + l.host + "/?redirect=" + encodeURIComponent(path) + qs + h;
+    <base href="/" />
+  </head>
+  <body>
+    <div id="root"></div>
 
-      // Redirección sin añadir entrada al historial
-      l.replace(url);
-    } catch (e) {
-      // Fallback: home
-      try { window.location.replace("/"); } catch (_) {}
-    }
-  })();
-  </script>
+    <script src="/app.iife.js"></script>
 
-  <noscript>
-    <meta http-equiv="refresh" content="0; url=/" />
-  </noscript>
+    <script>
+      window.addEventListener('DOMContentLoaded', () => {
+        if (!window.TestManiaApp) {
+          console.error('TestManiaApp no está definido');
+          return;
+        }
+        window.TestManiaApp.mount('#root');
+      });
+    </script>
 
-  <style>
-    html,body{height:100%}
-    body{display:flex;align-items:center;justify-content:center;font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial}
-    .box{max-width:640px;padding:24px;text-align:center}
-    .muted{color:#6b7280}
-  </style>
-</head>
-<body>
-  <div class="box">
-    <h1>Redirigiendo…</h1>
-    <p class="muted">Si no ocurre automáticamente, <a href="/">ir al inicio</a>.</p>
-  </div>
-</body>
+    <noscript>Esta aplicación necesita JavaScript para funcionar.</noscript>
+  </body>
 </html>
