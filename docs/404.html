@@ -10,6 +10,21 @@
     <link rel="stylesheet" href="/app.css" />
 
     <base href="/" />
+    <script>
+/* SPA redirect para GitHub Pages (versión mínima) */
+(function () {
+  var l = window.location;
+  // si la ruta no es la raíz, redirige a /?redirect=<path+query+hash>
+  if (l.pathname !== '/' && !l.pathname.startsWith('/index.html')) {
+    l.replace(
+      l.protocol + '//' + l.host + '/?redirect=' +
+      encodeURIComponent(l.pathname.replace(/^\//, '')) +
+      l.search + l.hash
+    );
+  }
+})();
+</script>
+
   </head>
   <body>
     <div id="root"></div>
@@ -29,3 +44,4 @@
     <noscript>Esta aplicación necesita JavaScript para funcionar.</noscript>
   </body>
 </html>
+
