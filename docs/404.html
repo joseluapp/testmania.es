@@ -2,6 +2,21 @@
 <html>
 
 <head>
+    <script>
+/* SPA redirect para GitHub Pages:
+   si la ruta no es "/" (ni /index.html), redirige a "/?redirect=<path>" */
+(function () {
+  var l = window.location;
+  if (l.pathname !== '/' && !l.pathname.startsWith('/index.html')) {
+    l.replace(
+      l.protocol + '//' + l.host + '/?redirect=' +
+      encodeURIComponent(l.pathname.replace(/^\//, '')) +
+      l.search + l.hash
+    );
+  }
+})();
+</script>
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <!-- Open Graph -->
@@ -68,3 +83,4 @@
 
 
 </html>
+
