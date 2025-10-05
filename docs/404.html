@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
   <meta charset="utf-8" />
@@ -6,31 +6,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Redirigiendo…</title>
 
-  <!--
-    404 para SPA en GitHub Pages (dominio raíz)
-    - Si el servidor devuelve 404 para /algo, redirigimos a /?redirect=algo
-    - index.html debe incluir un script que consuma ?redirect= y restaure la URL
-  -->
-
+  <!-- SPA redirect para GitHub Pages:
+       - Si el servidor devuelve 404 en /algo, redirigimos a /?redirect=algo
+       - Luego index.html (ya lo tienes) consumirá ?redirect= y restaurará la URL bonita -->
   <script>
   (function () {
     try {
       var l = window.location;
 
-      // Si ya estamos en raíz o en index.html, no hacemos nada
+      // Si ya estamos en / o /index.html no hacemos nada
       if (l.pathname === "/" || l.pathname === "/index.html") return;
 
-      // Construimos la URL /?redirect=<ruta> + query + hash
-      var path = l.pathname.replace(/^\//, "");         // sin barra inicial
-      var qp   = l.search || "";                        // ?query
-      var h    = l.hash || "";                          // #hash
+      // Construye /?redirect=<ruta-sin-barra> + query + hash
+      var path = l.pathname.replace(/^\//, "");
+      var qs   = l.search || "";
+      var h    = l.hash || "";
+      var url  = l.protocol + "//" + l.host + "/?redirect=" + encodeURIComponent(path) + qs + h;
 
-      var url = l.protocol + "//" + l.host + "/?redirect=" + encodeURIComponent(path) + qp + h;
-
-      // Reemplaza la URL actual por la de redirección (sin generar entrada en el historial)
+      // Redirección sin añadir entrada al historial
       l.replace(url);
     } catch (e) {
-      // Fallback: ir a la home
+      // Fallback: home
       try { window.location.replace("/"); } catch (_) {}
     }
   })();
@@ -41,7 +37,8 @@
   </noscript>
 
   <style>
-    html,body{height:100%} body{display:flex;align-items:center;justify-content:center;font-family:ui-sans-serif,system-ui,Segoe UI,Roboto,Helvetica,Arial}
+    html,body{height:100%}
+    body{display:flex;align-items:center;justify-content:center;font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial}
     .box{max-width:640px;padding:24px;text-align:center}
     .muted{color:#6b7280}
   </style>
@@ -49,7 +46,7 @@
 <body>
   <div class="box">
     <h1>Redirigiendo…</h1>
-    <p class="muted">Si no ocurre automáticamente, <a href="/">haz clic aquí para ir al inicio</a>.</p>
+    <p class="muted">Si no ocurre automáticamente, <a href="/">ir al inicio</a>.</p>
   </div>
 </body>
 </html>
