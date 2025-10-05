@@ -37,18 +37,24 @@
 
 <body>
     <div id="root"></div>
-    <script>
+
+<script>
 /* Consumir ?redirect=... y restaurar la URL real antes de arrancar la app */
 (function () {
   var params = new URLSearchParams(window.location.search);
-  var redir = params.get('redirect');
+  var redir = params.get("redirect");
   if (redir) {
     try {
-      var newPath = '/' + decodeURIComponent(redir.replace(/^\//, ''));
+      var newPath = "/" + decodeURIComponent(redir.replace(/^\//, ""));
       var newUrl = window.location.origin + newPath + window.location.hash;
-      window.history.replaceState({}, '', newUrl);
+
+      // ✅ reescribimos la URL real
+      window.history.replaceState({}, "", newUrl);
+
+      // ✅ disparamos un evento popstate para que React Router la detecte
+      window.dispatchEvent(new PopStateEvent("popstate"));
     } catch (e) {
-      window.history.replaceState({}, '', window.location.origin + '/' + window.location.hash);
+      window.history.replaceState({}, "", window.location.origin + "/" + window.location.hash);
     }
   }
 })();
@@ -68,3 +74,4 @@
 
 
 </html>
+
