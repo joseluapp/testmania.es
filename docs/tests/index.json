@@ -3,110 +3,135 @@
   "items": [
     {
       "id": "Geografía mundial",
-      "url": "./tests/geografia.json"
+      "url": "./tests/geografia.json",
+      "tags": "geografía, países, capitales"
     },
     {
       "id": "Historia universal",
-      "url": "./tests/historia.json"
+      "url": "./tests/historia.json",
+      "tags": "historia, cultura, civilizaciones"
     },
     {
       "id": "Arte y literatura",
-      "url": "./tests/arte.json"
+      "url": "./tests/arte.json",
+      "tags": "arte, literatura, cultura"
     },
     {
       "id": "Deporte",
-      "url": "./tests/deporte.json"
+      "url": "./tests/deporte.json",
+      "tags": "deportes, fútbol, olimpiadas"
     },
     {
       "id": "Cine",
-      "url": "./tests/cine.json"
+      "url": "./tests/cine.json",
+      "tags": "cine, películas, actores"
     },
     {
       "id": "Música",
-      "url": "./tests/musica.json"
+      "url": "./tests/musica.json",
+      "tags": "música, cantantes, bandas, compositores"
     },
     {
       "id": "Tecnología",
-      "url": "./tests/tecnologia.json"
+      "url": "./tests/tecnologia.json",
+      "tags": "tecnología, informática, internet"
     },
     {
       "id": "Física y química",
-      "url": "./tests/fisica.json"
+      "url": "./tests/fisica.json",
+      "tags": "física, química, ciencia, tecnología"
     },
     {
       "id": "Psicotécnicos",
-      "url": "./tests/psicotecnicos.json"
+      "url": "./tests/psicotecnicos.json",
+      "tags": "psicotécnicos, lógica, matemáticas"
     },
     {
       "id": "English grammar",
-      "url": "./tests/ingles.json"
+      "url": "./tests/ingles.json",
+      "tags": "inglés, gramática, vocabulario"
     },
     {
       "id": "Capitales del mundo",
-      "url": "./tests/capitales_mundo.json"
+      "url": "./tests/capitales_mundo.json",
+      "tags": "geografía, capitales, países"
     },
     {
       "id": "Historia de España",
-      "url": "./tests/historia_espana.json"
+      "url": "./tests/historia_espana.json",
+      "tags": "historia, España, cultura"
     },
     {
       "id": "Series de televisión",
       "url": "./tests/seriestv.json",
-      "visible": false
+      "tags": "series, televisión, cultura"
     },
     {
       "id": "Cálculo mental rápido",
-      "url": "./tests/calculo_mental.json"
+      "url": "./tests/calculo_mental.json",
+      "tags": "matemáticas, cálculo, psicotécnicos, lógica"
     },
     {
       "id": "Videojuegos",
-      "url": "./tests/videojuegos.json"
+      "url": "./tests/videojuegos.json",
+      "tags": "videojuegos, consolas, entretenimiento"
     },
     {
       "id": "Gastronomía internacional",
-      "url": "./tests/gastronomia_internacional.json"
+      "url": "./tests/gastronomia_internacional.json",
+      "tags": "comida, cocina, cultura"
     },
     {
       "id": "Refranes españoles",
-      "url": "./tests/refranes_espanoles.json"
+      "url": "./tests/refranes_espanoles.json",
+      "tags": "refranes, cultura, españa"
     },
     {
       "id": "Cuerpo humano",
-      "url": "./tests/cuerpo_humano.json"
+      "url": "./tests/cuerpo_humano.json",
+      "tags": "anatomía, medicina, salud"
     },
     {
       "id": "Animales del mundo",
-      "url": "./tests/animales_mundo.json"
+      "url": "./tests/animales_mundo.json",
+      "tags": "naturaleza, animales, ciencia"
     },
     {
       "id": "Preguntas para niños",
-      "url": "./tests/preguntas_ninos.json"
+      "url": "./tests/preguntas_ninos.json",
+      "tags": "niños, cultura, general"
     },
     {
       "id": "Mitología griega y romana",
-      "url": "./tests/mitologia_griega_romana.json"
+      "url": "./tests/mitologia_griega_romana.json",
+      "tags": "mitología, cultura, historia"
     },
     {
       "id": "Dibujos animados",
-      "url": "./tests/dibujos_animados.json"
+      "url": "./tests/dibujos_animados.json",
+      "tags": "dibujos, animación, televisión"
     },
     {
       "id": "Monumentos del mundo",
-      "url": "./tests/monumentos_mundo.json"
+      "url": "./tests/monumentos_mundo.json",
+      "tags": "monumentos, geografía, cultura"
     },
     {
       "id": "Cultura general (Difícil)",
       "url": "./tests/cultura_general_dificil.json",
+      "tags": "historia, ciencia, literatura, arte, geografía",
       "visible": false
     },
     {
       "id": "Vinos de España",
       "url": "./tests/vinos_de_espana.json",
+      "tags": "vinos, españa, gastronomía",
       "visible": false
     },
     {
       "id": "Estatuto Adif",
       "url": "./tests/estatuto_adif.json",
+      "tags": "normativa, oposiciones, administración pública",
       "visible": false
     }
   ]
