@@ -133,6 +133,12 @@
       "url": "./tests/estatuto_adif.json",
       "tags": "normativa, oposiciones, administración pública",
       "visible": false
+    },
+    {
+      "id": "Historia del Real Madrid",
+      "url": "./tests/historia_real_madrid.json",
+      "tags": "fútbol, real madrid, deporte",
+      "visible": false
     }
   ]
 }

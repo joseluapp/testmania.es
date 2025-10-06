@@ -1,0 +1,1315 @@
+{
+  "titulo": "Historia del Real Madrid",
+  "preguntas": [
+    {
+      "texto": "¿En qué año se fundó el Real Madrid?",
+      "opciones": [
+        "1900",
+        "1902",
+        "1898",
+        "1905"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el primer presidente del Real Madrid?",
+      "opciones": [
+        "Santiago Bernabéu",
+        "Julian Palacios",
+        "Juan Padrós",
+        "Carlos Padrós"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué estadio jugó el Real Madrid antes de mudarse al Santiago Bernabéu?",
+      "opciones": [
+        "Estadio de Chamartín",
+        "Estadio de O'Donnell",
+        "Campo de la Avenida de la Plaza de Toros",
+        "Estadio Metropolitano"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántas Ligas de Campeones de Europa/UEFA tiene el Real Madrid?",
+      "opciones": [
+        "12",
+        "14",
+        "10",
+        "13"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué entrenador lideró al Real Madrid en la primera Copa de Europa?",
+      "opciones": [
+        "Miguel Muñoz",
+        "Luis Carniglia",
+        "José Villalonga",
+        "Enrique Fernández"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién anotó el gol de la victoria en la final de la Séptima Copa de Europa?",
+      "opciones": [
+        "Francisco Gento",
+        "Alfredo Di Stéfano",
+        "Ferenc Puskás",
+        "Amancio Amaro"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año se inauguró el Estadio Santiago Bernabéu?",
+      "opciones": [
+        "1947",
+        "1955",
+        "1950",
+        "1945"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador tiene el récord de más partidos disputados con el Real Madrid?",
+      "opciones": [
+        "Raúl González",
+        "Iker Casillas",
+        "Sergio Ramos",
+        "Karim Benzema"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fue 'la Saeta Rubia' del Real Madrid?",
+      "opciones": [
+        "Raymond Kopa",
+        "Alfredo Di Stéfano",
+        "Ferenc Puskás",
+        "Francisco Gento"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué presidente del Real Madrid dio nombre al estadio?",
+      "opciones": [
+        "Ramón Mendoza",
+        "Lorenzo Sanz",
+        "Santiago Bernabéu",
+        "Florentino Pérez"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué año ganó el Real Madrid su primera Liga española?",
+      "opciones": [
+        "1929",
+        "1932",
+        "1933",
+        "1931"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué jugador del Real Madrid ganó el primer Balón de Oro?",
+      "opciones": [
+        "Raymond Kopa",
+        "Alfredo Di Stéfano",
+        "Ferenc Puskás",
+        "Luis Suárez"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Contra qué equipo ganó el Real Madrid su Décima Champions League?",
+      "opciones": [
+        "Atlético de Madrid",
+        "Juventus",
+        "Liverpool",
+        "Borussia Dortmund"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién entrenaba al Real Madrid cuando ganó la Octava Champions League?",
+      "opciones": [
+        "Vicente del Bosque",
+        "John Toshack",
+        "Jupp Heynckes",
+        "Leo Beenhakker"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué número de dorsal llevaba Raúl González en el Real Madrid?",
+      "opciones": [
+        "7",
+        "9",
+        "10",
+        "5"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué década ganó el Real Madrid sus primeras 5 Copas de Europa consecutivas?",
+      "opciones": [
+        "1940s",
+        "1960s",
+        "1950s",
+        "1970s"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién anotó el gol de la Duodécima Champions League en la final contra la Juventus?",
+      "opciones": [
+        "Cristiano Ronaldo",
+        "Marco Asensio",
+        "Casemiro",
+        "Karim Benzema"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué jugador era conocido como 'El Buitre'?",
+      "opciones": [
+        "Emilio Butragueño",
+        "Hugo Sánchez",
+        "Michel",
+        "Manolo Sanchís"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántas Copas del Rey tiene el Real Madrid?",
+      "opciones": [
+        "17",
+        "19",
+        "20",
+        "21"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el primer fichaje galáctico de Florentino Pérez?",
+      "opciones": [
+        "Zinedine Zidane",
+        "Luís Figo",
+        "David Beckham",
+        "Ronaldo Nazário"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué año firmó Cristiano Ronaldo con el Real Madrid?",
+      "opciones": [
+        "2008",
+        "2009",
+        "2010",
+        "2007"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué entrenador ganó la Liga de Campeones con el Real Madrid en 1998?",
+      "opciones": [
+        "Fabio Capello",
+        "Vicente del Bosque",
+        "Jupp Heynckes",
+        "John Toshack"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién anotó el gol de la Novena Copa de Europa contra el Valencia?",
+      "opciones": [
+        "Steve McManaman",
+        "Raúl González",
+        "Fernando Morientes",
+        "Fernando Redondo"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador del Real Madrid ganó el Balón de Oro en 2002?",
+      "opciones": [
+        "Zinedine Zidane",
+        "Luís Figo",
+        "Ronaldo Nazário",
+        "Roberto Carlos"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuántas temporadas jugó Alfredo Di Stéfano en el Real Madrid?",
+      "opciones": [
+        "9",
+        "11",
+        "8",
+        "10"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué año ganó el Real Madrid su primera Copa Intercontinental?",
+      "opciones": [
+        "1960",
+        "1958",
+        "1962",
+        "1966"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién era conocido como 'El Galgo' en la Quinta del Buitre?",
+      "opciones": [
+        "Rafael Martín Vázquez",
+        "Míchel",
+        "Miguel Pardeza",
+        "Manolo Sanchís"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué portero jugó más partidos consecutivos sin encajar gol en la historia del Real Madrid?",
+      "opciones": [
+        "Iker Casillas",
+        "Keylor Navas",
+        "Thibaut Courtois",
+        "Miguel Ángel González"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Contra qué equipo hizo Cristiano Ronaldo su debut oficial con el Real Madrid?",
+      "opciones": [
+        "Deportivo La Coruña",
+        "Mallorca",
+        "Sevilla",
+        "Real Zaragoza"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el máximo goleador del Real Madrid en la temporada 2011-2012?",
+      "opciones": [
+        "Cristiano Ronaldo",
+        "Gonzalo Higuaín",
+        "Karim Benzema",
+        "Ángel Di María"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año se retiró Francisco Gento del Real Madrid?",
+      "opciones": [
+        "1970",
+        "1971",
+        "1969",
+        "1972"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué entrenador tuvo el reinado más largo en la historia del Real Madrid?",
+      "opciones": [
+        "Miguel Muñoz",
+        "Vicente del Bosque",
+        "Zinedine Zidane",
+        "Leo Beenhakker"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién anotó el gol de la victoria en la final de la Copa del Rey de 2014?",
+      "opciones": [
+        "Sergio Ramos",
+        "Gareth Bale",
+        "Cristiano Ronaldo",
+        "Ángel Di María"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué jugador del Real Madrid ganó el Balón de Oro en 2006?",
+      "opciones": [
+        "Fabio Cannavaro",
+        "Zinedine Zidane",
+        "Ronaldinho",
+        "Thierry Henry"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año se proclamó el Real Madrid 'Campeón de Campeones'?",
+      "opciones": [
+        "1932",
+        "1934",
+        "1936",
+        "1938"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el capitán del Real Madrid durante la Quinta del Buitre?",
+      "opciones": [
+        "Manolo Sanchís",
+        "Emilio Butragueño",
+        "Míchel",
+        "Rafael Martín Vázquez"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué presidente del Real Madrid firmó a Alfredo Di Stéfano?",
+      "opciones": [
+        "Antonio Santos Peralba",
+        "Raimundo Saporta",
+        "Santiago Bernabéu",
+        "Rafael Salgado"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuántos goles anotó Cristiano Ronaldo en su mejor temporada con el Real Madrid?",
+      "opciones": [
+        "48",
+        "51",
+        "61",
+        "55"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién entrenaba al Real Madrid cuando ganó la Liga 1989-1990?",
+      "opciones": [
+        "John Toshack",
+        "Leo Beenhakker",
+        "Vicente del Bosque",
+        "Jorge Valdano"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador era conocido como 'El Príncipe'?",
+      "opciones": [
+        "Fernando Redondo",
+        "Clarence Seedorf",
+        "Predrag Mijatović",
+        "Davor Šuker"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año ganó el Real Madrid su primera Copa UEFA?",
+      "opciones": [
+        "1983",
+        "1985",
+        "1986",
+        "1988"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién anotó el gol de la victoria en la final de la Copa de Europa de 1966?",
+      "opciones": [
+        "Amancio Amaro",
+        "Francisco Gento",
+        "Ferenc Puskás",
+        "Ramón Grosso"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué número de dorsal llevaba Zinedine Zidane en el Real Madrid?",
+      "opciones": [
+        "10",
+        "5",
+        "21",
+        "7"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué temporada logró el Real Madrid el récord de puntos en LaLiga?",
+      "opciones": [
+        "2011-2012",
+        "2009-2010",
+        "2016-2017",
+        "2014-2015"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el primer entrenador extranjero del Real Madrid?",
+      "opciones": [
+        "Miljan Miljanić",
+        "Ljubiša Broćić",
+        "Alberto Suppici",
+        "Michael Keeping"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué jugador del Real Madrid ganó el Balón de Oro en 2018?",
+      "opciones": [
+        "Luka Modrić",
+        "Cristiano Ronaldo",
+        "Sergio Ramos",
+        "Karim Benzema"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año se fusionaron el Madrid FC y el Moderno FC?",
+      "opciones": [
+        "1902",
+        "1904",
+        "1900",
+        "1906"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién anotó el primer gol en el Estadio Santiago Bernabéu?",
+      "opciones": [
+        "Sabino Barinaga",
+        "Alfredo Di Stéfano",
+        "Francisco Gento",
+        "Miguel Muñoz"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué entrenador lideró al Real Madrid en el récord de 34 partidos invicto?",
+      "opciones": [
+        "Zinedine Zidane",
+        "Carlo Ancelotti",
+        "José Mourinho",
+        "Bernd Schuster"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el máximo goleador del Real Madrid en la década de 1980?",
+      "opciones": [
+        "Hugo Sánchez",
+        "Emilio Butragueño",
+        "Carlos Santillana",
+        "Juanito"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué año ganó el Real Madrid su primera Supercopa de Europa?",
+      "opciones": [
+        "2002",
+        "2014",
+        "2016",
+        "2017"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador del Real Madrid marcó 5 goles en un Clásico?",
+      "opciones": [
+        "Ferenc Puskás",
+        "Alfredo Di Stéfano",
+        "Hugo Sánchez",
+        "Cristiano Ronaldo"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién entrenaba al Real Madrid cuando ganó la Liga 2007-2008?",
+      "opciones": [
+        "Fabio Capello",
+        "Bernd Schuster",
+        "Vanderlei Luxemburgo",
+        "Manuel Pellegrini"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué presidente del Real Madrid firmó a Cristiano Ronaldo?",
+      "opciones": [
+        "Ramón Calderón",
+        "Florentino Pérez",
+        "Lorenzo Sanz",
+        "Vicente Boluda"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué año se retiró Iker Casillas del Real Madrid?",
+      "opciones": [
+        "2015",
+        "2014",
+        "2016",
+        "2017"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién anotó el gol de la victoria en la final de la Copa de Europa de 1998?",
+      "opciones": [
+        "Predrag Mijatović",
+        "Davor Šuker",
+        "Raúl González",
+        "Clarence Seedorf"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador del Real Madrid ganó el Balón de Oro en 1959?",
+      "opciones": [
+        "Raymond Kopa",
+        "Alfredo Di Stéfano",
+        "Ferenc Puskás",
+        "Luis Suárez"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué año debutó Raúl González con el primer equipo del Real Madrid?",
+      "opciones": [
+        "1994",
+        "1995",
+        "1996",
+        "1993"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el entrenador del Real Madrid en la temporada del 'Vaguetazo'?",
+      "opciones": [
+        "Juan de Carlos",
+        "Luis Molowny",
+        "Miljan Miljanić",
+        "Vicente del Bosque"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué jugador del Real Madrid marcó el gol más rápido en la historia de los Clásicos?",
+      "opciones": [
+        "Karim Benzema",
+        "Cristiano Ronaldo",
+        "Ronaldo Nazário",
+        "Iván Zamorano"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué año se fundó el Real Madrid?",
+      "opciones": [
+        "1902",
+        "1910",
+        "1899",
+        "1905"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el primer presidente del Real Madrid?",
+      "opciones": [
+        "Adolfo Meléndez",
+        "Carlos Padrós",
+        "Santiago Bernabéu",
+        "Pedro Parages"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué ciudad se fundó el Real Madrid?",
+      "opciones": [
+        "Barcelona",
+        "Madrid",
+        "Sevilla",
+        "Valencia"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cómo se llamaba originalmente el club?",
+      "opciones": [
+        "Madrid CF",
+        "Club Español de Fútbol",
+        "Madrid Football Club",
+        "Real Madrid Club de Fútbol"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuándo recibió el título 'Real'?",
+      "opciones": [
+        "1920",
+        "1908",
+        "1912",
+        "1930"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién concedió el título de 'Real' al club?",
+      "opciones": [
+        "Alfonso XIII",
+        "Isabel II",
+        "Alfonso XII",
+        "Juan Carlos I"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año se inauguró el estadio Santiago Bernabéu?",
+      "opciones": [
+        "1947",
+        "1950",
+        "1943",
+        "1955"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué nombre tenía el estadio antes de llamarse Santiago Bernabéu?",
+      "opciones": [
+        "Chamartín",
+        "Las Corts",
+        "Metropolitano",
+        "La Castellana"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue Santiago Bernabéu?",
+      "opciones": [
+        "Jugador histórico",
+        "Presidente del club",
+        "Entrenador legendario",
+        "Fundador"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuántas Copas de Europa ganó el Real Madrid de Alfredo Di Stéfano?",
+      "opciones": [
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué década ganó el Real Madrid sus primeras Copas de Europa?",
+      "opciones": [
+        "1950s",
+        "1960s",
+        "1940s",
+        "1970s"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Contra qué equipo ganó el Real Madrid su primera Copa de Europa?",
+      "opciones": [
+        "Stade de Reims",
+        "AC Milan",
+        "Benfica",
+        "Barcelona"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año ganó el Real Madrid su primera Copa de Europa?",
+      "opciones": [
+        "1956",
+        "1955",
+        "1957",
+        "1958"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue la gran figura del Real Madrid en los años 50?",
+      "opciones": [
+        "Di Stéfano",
+        "Puskás",
+        "Gento",
+        "Kopa"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador tiene más Copas de Europa con el Real Madrid?",
+      "opciones": [
+        "Paco Gento",
+        "Cristiano Ronaldo",
+        "Raúl",
+        "Casillas"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año debutó Alfredo Di Stéfano con el Real Madrid?",
+      "opciones": [
+        "1953",
+        "1951",
+        "1955",
+        "1950"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué equipo fichó a Di Stéfano antes de llegar al Real Madrid?",
+      "opciones": [
+        "River Plate",
+        "Barcelona",
+        "Millonarios",
+        "Huracán"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuántas Champions League ha ganado el Real Madrid hasta 2022?",
+      "opciones": [
+        "14",
+        "13",
+        "12",
+        "15"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el entrenador del Real Madrid en la 'Décima'?",
+      "opciones": [
+        "Ancelotti",
+        "Mourinho",
+        "Zidane",
+        "Del Bosque"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año consiguió el Real Madrid la 'Décima'?",
+      "opciones": [
+        "2014",
+        "2013",
+        "2015",
+        "2016"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador marcó el gol del empate en la final de la 'Décima'?",
+      "opciones": [
+        "Ramos",
+        "Bale",
+        "Cristiano",
+        "Modric"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué equipo fue rival en la final de la 'Décima'?",
+      "opciones": [
+        "Atlético de Madrid",
+        "Barcelona",
+        "Juventus",
+        "Liverpool"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue presidente del Real Madrid durante la 'Décima'?",
+      "opciones": [
+        "Florentino Pérez",
+        "Sanz",
+        "Calderón",
+        "Bernabéu"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántas Ligas españolas ha ganado el Real Madrid hasta 2023?",
+      "opciones": [
+        "35",
+        "33",
+        "34",
+        "36"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál fue el primer título internacional del Real Madrid?",
+      "opciones": [
+        "Copa Latina",
+        "Copa de Europa",
+        "Supercopa de Europa",
+        "Mundial de Clubes"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué entrenador ganó tres Champions seguidas con el Real Madrid?",
+      "opciones": [
+        "Zidane",
+        "Ancelotti",
+        "Del Bosque",
+        "Mourinho"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué años ganó Zidane tres Champions seguidas?",
+      "opciones": [
+        "2016-2018",
+        "2014-2016",
+        "2012-2014",
+        "2018-2020"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el máximo goleador histórico del Real Madrid?",
+      "opciones": [
+        "Cristiano Ronaldo",
+        "Raúl",
+        "Benzema",
+        "Di Stéfano"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántos goles marcó Cristiano Ronaldo con el Real Madrid?",
+      "opciones": [
+        "450",
+        "420",
+        "460",
+        "430"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué dorsal usaba Cristiano Ronaldo en el Real Madrid?",
+      "opciones": [
+        "7",
+        "9",
+        "10",
+        "11"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador marcó en las finales de Champions de 2014 y 2018?",
+      "opciones": [
+        "Bale",
+        "Ramos",
+        "Cristiano",
+        "Benzema"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador marcó una chilena icónica en la final de 2018?",
+      "opciones": [
+        "Bale",
+        "Cristiano",
+        "Ramos",
+        "Isco"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Contra quién jugó el Real Madrid la final de Champions 2018?",
+      "opciones": [
+        "Liverpool",
+        "Juventus",
+        "Bayern",
+        "Chelsea"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el portero del Real Madrid en la final de 2014?",
+      "opciones": [
+        "Casillas",
+        "Keylor Navas",
+        "Courtois",
+        "Cañizares"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántos Balones de Oro ganó Cristiano Ronaldo con el Real Madrid?",
+      "opciones": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué entrenador sucedió a Ancelotti en 2015?",
+      "opciones": [
+        "Benítez",
+        "Zidane",
+        "Mourinho",
+        "Del Bosque"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué año se inauguró el nuevo escudo con corona?",
+      "opciones": [
+        "1920",
+        "1910",
+        "1930",
+        "1940"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el capitán del Real Madrid en la 'Undécima'?",
+      "opciones": [
+        "Sergio Ramos",
+        "Casillas",
+        "Marcelo",
+        "Pepe"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador fue apodado 'La Saeta Rubia'?",
+      "opciones": [
+        "Di Stéfano",
+        "Puskás",
+        "Kopa",
+        "Butragueño"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue Ferenc Puskás?",
+      "opciones": [
+        "Delantero húngaro",
+        "Portero español",
+        "Entrenador argentino",
+        "Presidente"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántos goles marcó Puskás en la final de 1960?",
+      "opciones": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Dónde ganó el Real Madrid la Copa de Europa de 1960?",
+      "opciones": [
+        "Glasgow",
+        "Madrid",
+        "París",
+        "Londres"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el entrenador del Real Madrid en la final de 1960?",
+      "opciones": [
+        "Miguel Muñoz",
+        "Bernabéu",
+        "Villalonga",
+        "Molowny"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador español marcó en la final de 1966?",
+      "opciones": [
+        "Amancio",
+        "Gento",
+        "Velázquez",
+        "Pirri"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué se conoce como el 'Madrid Ye-Yé'?",
+      "opciones": [
+        "Generación de los 60",
+        "Equipo de los 50",
+        "Plantilla de los 70",
+        "Juveniles"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué equipo venció el Real Madrid en la final de 1966?",
+      "opciones": [
+        "Partizán",
+        "Benfica",
+        "Juventus",
+        "Inter"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántas Copas Intercontinentales tiene el Real Madrid?",
+      "opciones": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántos Mundiales de Clubes ha ganado el Real Madrid hasta 2023?",
+      "opciones": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador marcó el gol decisivo en la final del Mundial de Clubes 2018?",
+      "opciones": [
+        "Gareth Bale",
+        "Cristiano",
+        "Ramos",
+        "Benzema"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador ganó el Balón de Oro en 2022 siendo del Real Madrid?",
+      "opciones": [
+        "Benzema",
+        "Modric",
+        "Courtois",
+        "Vinícius"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántos Balones de Oro tiene Karim Benzema?",
+      "opciones": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el entrenador del Real Madrid en 2022?",
+      "opciones": [
+        "Ancelotti",
+        "Zidane",
+        "Solari",
+        "Lopetegui"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué equipo eliminó el Real Madrid en semifinales de Champions 2022?",
+      "opciones": [
+        "Manchester City",
+        "PSG",
+        "Chelsea",
+        "Liverpool"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién marcó el hat-trick ante el PSG en 2022?",
+      "opciones": [
+        "Benzema",
+        "Vinícius",
+        "Modric",
+        "Rodrygo"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántas veces ha ganado el Real Madrid la Copa del Rey hasta 2023?",
+      "opciones": [
+        "20",
+        "19",
+        "18",
+        "21"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué entrenador del Real Madrid es conocido como 'El Sabio de Hortaleza'?",
+      "opciones": [
+        "Del Bosque",
+        "Capello",
+        "Molowny",
+        "Beenhakker"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué año ganó el Real Madrid su primera Liga?",
+      "opciones": [
+        "1932",
+        "1930",
+        "1935",
+        "1928"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántas veces consecutivas ganó el Real Madrid la Liga entre 1961 y 1965?",
+      "opciones": [
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué rival histórico comparte el clásico con el Real Madrid?",
+      "opciones": [
+        "Barcelona",
+        "Atlético",
+        "Valencia",
+        "Sevilla"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el nombre completo del club?",
+      "opciones": [
+        "Real Madrid Club de Fútbol",
+        "Madrid Fútbol Club",
+        "Club Real Madrid",
+        "Real FC Madrid"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué lema aparece en el escudo del Real Madrid?",
+      "opciones": [
+        "Ninguno",
+        "Hala Madrid",
+        "Desde 1902",
+        "Rey de Europa"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año se fundó el Real Madrid?",
+      "opciones": [
+        "1898",
+        "1902",
+        "1910",
+        "1920"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el primer presidente del Real Madrid?",
+      "opciones": [
+        "Carlos Padrós",
+        "Santiago Bernabéu",
+        "Juan Padrós",
+        "Florentino Pérez"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué jugador es el máximo goleador histórico del club?",
+      "opciones": [
+        "Karim Benzema",
+        "Raúl González",
+        "Cristiano Ronaldo",
+        "Alfredo Di Stéfano"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué estadio juega el Real Madrid como local?",
+      "opciones": [
+        "Camp Nou",
+        "Santiago Bernabéu",
+        "Metropolitano",
+        "Mestalla"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuántas Copas de Europa/Champions League ha ganado el Real Madrid hasta 2024?",
+      "opciones": [
+        "10",
+        "14",
+        "13",
+        "15"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Quién fue el entrenador del Real Madrid en la 'Décima' Champions (2014)?",
+      "opciones": [
+        "Carlo Ancelotti",
+        "Zinedine Zidane",
+        "José Mourinho",
+        "Vicente del Bosque"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador argentino fue leyenda del club en los años 50?",
+      "opciones": [
+        "Hugo Sánchez",
+        "Alfredo Di Stéfano",
+        "Fernando Redondo",
+        "Juan Valerón"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cómo se llama la ciudad deportiva del Real Madrid?",
+      "opciones": [
+        "Ciudad Deportiva de Valdebebas",
+        "Ciudad Real Madrid",
+        "La Fábrica",
+        "Las Rozas"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué presidente dio nombre al estadio actual del club?",
+      "opciones": [
+        "Florentino Pérez",
+        "Luis de Carlos",
+        "Santiago Bernabéu",
+        "Ramón Mendoza"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué equipo fue el rival en la final de la Champions 2022 ganada por el Real Madrid?",
+      "opciones": [
+        "Liverpool",
+        "Manchester City",
+        "Chelsea",
+        "PSG"
+      ],
+      "correcta": 1
+    }
+  ]
+}
