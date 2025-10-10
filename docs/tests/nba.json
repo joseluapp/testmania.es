@@ -1,0 +1,556 @@
+{
+  "titulo": "NBA: Datos y Récords",
+  "tags": "deporte, baloncesto, nba",
+  "preguntas": [
+    {
+      "texto": "¿Quién es el máximo anotador histórico de la NBA?",
+      "opciones": [
+        "Michael Jordan",
+        "LeBron James",
+        "Kareem Abdul-Jabbar",
+        "Wilt Chamberlain"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuántos equipos hay actualmente en la NBA?",
+      "opciones": [
+        "28",
+        "30",
+        "32",
+        "29"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué equipo tiene más campeonatos ganados?",
+      "opciones": [
+        "Golden State Warriors",
+        "Boston Celtics",
+        "Chicago Bulls",
+        "Miami Heat"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué ciudad juega de local el equipo New York Knicks?",
+      "opciones": [
+        "Chicago",
+        "Brooklyn",
+        "Nueva York",
+        "Boston"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fue el MVP de la temporada 2023-24?",
+      "opciones": [
+        "Giannis Antetokounmpo",
+        "Joel Embiid",
+        "Nikola Jokic",
+        "Luka Doncic"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuántos jugadores hay en cancha por cada equipo durante un partido?",
+      "opciones": [
+        "7",
+        "4",
+        "6",
+        "5"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué jugador anotó 100 puntos en un solo partido?",
+      "opciones": [
+        "Wilt Chamberlain",
+        "LeBron James",
+        "Kobe Bryant",
+        "Allen Iverson"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el equipo de la NBA con sede en Canadá?",
+      "opciones": [
+        "Toronto Raptors",
+        "Seattle Supersonics",
+        "Vancouver Grizzlies",
+        "Montreal Jam"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué equipo fue apodado los 'Bad Boys' en los años 80?",
+      "opciones": [
+        "Detroit Pistons",
+        "Boston Celtics",
+        "Los Angeles Lakers",
+        "Houston Rockets"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién ha logrado más títulos MVP en la historia?",
+      "opciones": [
+        "LeBron James",
+        "Kareem Abdul-Jabbar",
+        "Michael Jordan",
+        "Stephen Curry"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuántos minutos dura un partido oficial de la NBA?",
+      "opciones": [
+        "48",
+        "40",
+        "60",
+        "36"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador se retiró y luego jugó béisbol profesional?",
+      "opciones": [
+        "Shaquille O'Neal",
+        "Michael Jordan",
+        "Vince Carter",
+        "Karl Malone"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién tiene el récord de asistencias en la historia de la NBA?",
+      "opciones": [
+        "Magic Johnson",
+        "Chris Paul",
+        "John Stockton",
+        "Oscar Robertson"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿A qué equipo perteneció Kobe Bryant toda su carrera?",
+      "opciones": [
+        "Los Angeles Lakers",
+        "Miami Heat",
+        "Charlotte Hornets",
+        "Chicago Bulls"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál fue el primer equipo campeón de la NBA?",
+      "opciones": [
+        "Boston Celtics",
+        "Minneapolis Lakers",
+        "New York Knicks",
+        "Philadelphia Warriors"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuál es el récord de triples anotados por un jugador en la NBA?",
+      "opciones": [
+        "Ray Allen",
+        "James Harden",
+        "Stephen Curry",
+        "Klay Thompson"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué jugador es famoso por la jugada 'Euro Step'?",
+      "opciones": [
+        "Manu Ginóbili",
+        "Luka Doncic",
+        "Dirk Nowitzki",
+        "Tony Parker"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién tiene el récord de más rebotes en un solo partido?",
+      "opciones": [
+        "Bill Russell",
+        "Wilt Chamberlain",
+        "Dennis Rodman",
+        "Shaquille O'Neal"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es el nombre de la mascota de los Charlotte Hornets?",
+      "opciones": [
+        "Clutch",
+        "Lucky",
+        "Hugo",
+        "Benny"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué ciudad era la sede original de los Memphis Grizzlies?",
+      "opciones": [
+        "Vancouver",
+        "Seattle",
+        "San Diego",
+        "Kansas City"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién fue el primer jugador europeo en ganar el MVP?",
+      "opciones": [
+        "Dirk Nowitzki",
+        "Pau Gasol",
+        "Tony Parker",
+        "Arvydas Sabonis"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién ostenta el récord de más títulos NBA como jugador?",
+      "opciones": [
+        "Magic Johnson",
+        "Bill Russell",
+        "Larry Bird",
+        "Tim Duncan"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué equipo tiene el récord de victorias consecutivas en una temporada?",
+      "opciones": [
+        "Golden State Warriors",
+        "Boston Celtics",
+        "Los Angeles Lakers",
+        "Chicago Bulls"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es la distancia oficial de la línea de tres puntos?",
+      "opciones": [
+        "23.75 pies",
+        "22.5 pies",
+        "24 pies",
+        "23.25 pies"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador fue elegido MVP de forma unánime?",
+      "opciones": [
+        "LeBron James",
+        "Steph Curry",
+        "Shaquille O'Neal",
+        "Michael Jordan"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué franquicia tiene el mayor número de apariciones en finales de la NBA?",
+      "opciones": [
+        "Boston Celtics",
+        "Golden State Warriors",
+        "Chicago Bulls",
+        "Los Angeles Lakers"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué equipo nunca ha perdido en una final NBA?",
+      "opciones": [
+        "Miami Heat",
+        "Chicago Bulls",
+        "Toronto Raptors",
+        "Houston Rockets"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué año se fundó la NBA?",
+      "opciones": [
+        "1946",
+        "1950",
+        "1939",
+        "1961"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién es conocido como 'The Mailman'?",
+      "opciones": [
+        "Charles Barkley",
+        "Karl Malone",
+        "John Stockton",
+        "Patrick Ewing"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué entrenador tiene más victorias en la historia de la NBA?",
+      "opciones": [
+        "Phil Jackson",
+        "Red Auerbach",
+        "Gregg Popovich",
+        "Larry Brown"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién tiene el récord de triple-dobles en la historia?",
+      "opciones": [
+        "Oscar Robertson",
+        "Russell Westbrook",
+        "James Harden",
+        "Nikola Jokic"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿El Dream Team olímpico debutó en qué año?",
+      "opciones": [
+        "1988",
+        "1996",
+        "1992",
+        "2000"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál es el apodo de Allen Iverson?",
+      "opciones": [
+        "AI",
+        "Big Diesel",
+        "The Answer",
+        "Flash"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué jugador fue famoso por el tiro en suspensión llamado 'Sky Hook'?",
+      "opciones": [
+        "Wilt Chamberlain",
+        "Karl Malone",
+        "Kareem Abdul-Jabbar",
+        "Tim Duncan"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fue el comisionado de la NBA en 2025?",
+      "opciones": [
+        "Adam Silver",
+        "David Stern",
+        "Larry O'Brien",
+        "Maurice Podoloff"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántas veces ha ganado el MVP Michael Jordan?",
+      "opciones": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué equipo ganó el campeonato en la temporada 1996?",
+      "opciones": [
+        "Chicago Bulls",
+        "Houston Rockets",
+        "Los Angeles Lakers",
+        "Boston Celtics"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador lideró al Dream Team en 1992?",
+      "opciones": [
+        "Larry Bird",
+        "Charles Barkley",
+        "Magic Johnson",
+        "Michael Jordan"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Quién registró el mayor número de puntos en una final NBA?",
+      "opciones": [
+        "Elgin Baylor",
+        "Michael Jordan",
+        "Shaquille O'Neal",
+        "LeBron James"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuál es el récord de asistencias en una temporada?",
+      "opciones": [
+        "John Stockton",
+        "Chris Paul",
+        "Magic Johnson",
+        "Oscar Robertson"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántos títulos ganó Shaquille O'Neal?",
+      "opciones": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es la franquicia con más derrotas en finales sin campeonar?",
+      "opciones": [
+        "Phoenix Suns",
+        "Brooklyn Nets",
+        "Indiana Pacers",
+        "Utah Jazz"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué equipo fue primer campeón fuera de EE. UU?",
+      "opciones": [
+        "Toronto Raptors",
+        "Vancouver Grizzlies",
+        "Seattle SuperSonics",
+        "Montreal Dragons"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Quién tiene más apariciones en All-Star?",
+      "opciones": [
+        "Tim Duncan",
+        "Kobe Bryant",
+        "LeBron James",
+        "Magic Johnson"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién fue el primer ganador del MVP por elección unánime?",
+      "opciones": [
+        "LeBron James",
+        "Stephen Curry",
+        "Magic Johnson",
+        "Michael Jordan"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué temporada los Warriors ganaron 73 partidos?",
+      "opciones": [
+        "2014-15",
+        "2015-16",
+        "2016-17",
+        "2017-18"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién tiene el récord de más bloqueos en finales NBA?",
+      "opciones": [
+        "Kareem Abdul-Jabbar",
+        "Shaquille O'Neal",
+        "Bill Russell",
+        "Dwight Howard"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el máximo anotador de la NBA en la temporada 2024-25?",
+      "opciones": [
+        "Luka Doncic",
+        "Joel Embiid",
+        "LeBron James",
+        "Jayson Tatum"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué franquicia fue conocida por el mayor promedio de pérdidas de balón en finales?",
+      "opciones": [
+        "Lakers",
+        "Bulls",
+        "Celtics",
+        "Heat"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué ciudad juegan los Denver Nuggets?",
+      "opciones": [
+        "Denver",
+        "Seattle",
+        "Salt Lake City",
+        "Portland"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador ganó el premio Rookie del Año en la temporada 2023-24?",
+      "opciones": [
+        "Victor Wembanyama",
+        "Chet Holmgren",
+        "Scoot Henderson",
+        "Brandon Miller"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué equipo ganó el campeonato NBA 2024?",
+      "opciones": [
+        "Boston Celtics",
+        "Denver Nuggets",
+        "Golden State Warriors",
+        "Miami Heat"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué jugador tiene el récord de más triples-dobles en playoffs?",
+      "opciones": [
+        "LeBron James",
+        "Russell Westbrook",
+        "Nikola Jokic",
+        "Magic Johnson"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué franquicia fue agregada más recientemente a la NBA?",
+      "opciones": [
+        "Charlotte Hornets",
+        "New Orleans Pelicans",
+        "Vancouver Grizzlies",
+        "Memphis Grizzlies"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué jugador es apodado 'The Greek Freak'?",
+      "opciones": [
+        "Luka Doncic",
+        "Giannis Antetokounmpo",
+        "Nikola Jokic",
+        "Kristaps Porzingis"
+      ],
+      "correcta": 2
+    }
+  ]
+}

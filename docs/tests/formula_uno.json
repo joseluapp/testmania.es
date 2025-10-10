@@ -1,0 +1,556 @@
+{
+  "titulo": "Fórmula 1: historia y reglas",
+  "tags": "deporte, automovil, fórmula",
+  "preguntas": [
+    {
+      "texto": "¿Primer campeón mundial de F1?",
+      "opciones": [
+        "Juan Manuel Fangio",
+        "Alberto Ascari",
+        "Giuseppe Farina",
+        "Jack Brabham"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién ganó más títulos de F1?",
+      "opciones": [
+        "Lewis Hamilton",
+        "Michael Schumacher",
+        "Ayrton Senna",
+        "Max Verstappen"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Año de la primera carrera de F1?",
+      "opciones": [
+        "1946",
+        "1950",
+        "1955",
+        "1960"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué marca tiene más campeonatos de constructores?",
+      "opciones": [
+        "Ferrari",
+        "McLaren",
+        "Mercedes",
+        "Williams"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Duración mínima habitual de una carrera de F1?",
+      "opciones": [
+        "1 hora",
+        "2 horas",
+        "3 horas",
+        "30 minutos"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Nombre del piloto fallecido en Imola 1994?",
+      "opciones": [
+        "Roland Ratzenberger",
+        "Ayrton Senna",
+        "Jules Bianchi",
+        "Niki Lauda"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Circuito con más carreras de F1?",
+      "opciones": [
+        "Silverstone",
+        "Monza",
+        "Spa-Francorchamps",
+        "Mónaco"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Año de introducción del sistema de puntos actual (25 al ganador)?",
+      "opciones": [
+        "2003",
+        "2010",
+        "2008",
+        "2014"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿País con más Grandes Premios?",
+      "opciones": [
+        "Italia",
+        "Alemania",
+        "Reino Unido",
+        "Estados Unidos"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Piloto apodado 'El León'?",
+      "opciones": [
+        "Nigel Mansell",
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Ayrton Senna"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Por qué se usa bandera roja?",
+      "opciones": [
+        "Lluvia intensa",
+        "Accidente grave",
+        "Por tradición",
+        "Cambio de reglas"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Inventores del halo de protección?",
+      "opciones": [
+        "Mercedes",
+        "Ferrari",
+        "Red Bull",
+        "FIA"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué equipo tiene el récord de victorias en una temporada?",
+      "opciones": [
+        "MacLaren",
+        "Ferrari",
+        "Red Bull",
+        "Mercedes"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Cuál NO es compuesto de neumático?",
+      "opciones": [
+        "Blando",
+        "Intermedio",
+        "Super",
+        "Duro"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿En qué etapa se usa la bandera azul?",
+      "opciones": [
+        "Clasificación",
+        "Entrenamientos",
+        "Durante el adelantamiento",
+        "Cuando hay doblados"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Piloto con más poles en F1?",
+      "opciones": [
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Ayrton Senna"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Circuito más largo?",
+      "opciones": [
+        "Spa-Francorchamps",
+        "Monza",
+        "Silverstone",
+        "Suzuka"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Piloto con más podios?",
+      "opciones": [
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Kimi Raikkonen",
+        "Michael Schumacher"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Número actual de equipos en F1?",
+      "opciones": [
+        "12",
+        "8",
+        "10",
+        "14"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿'Pole position' significa?",
+      "opciones": [
+        "Primer lugar",
+        "Segundo lugar",
+        "Tercer lugar",
+        "Último lugar"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuándo es la parada obligatoria en carrera?",
+      "opciones": [
+        "En la vuelta 1",
+        "Cuando llueve",
+        "Durante Safety Car",
+        "Cuando cambian compuestos"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Piloto español campeón de F1?",
+      "opciones": [
+        "Carlos Sainz",
+        "Pedro de la Rosa",
+        "Fernando Alonso",
+        "Alfonso de Portago"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Escudería donde corrió Ayrton Senna en 1988?",
+      "opciones": [
+        "Williams",
+        "McLaren",
+        "Ferrari",
+        "Lotus"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Color de bandera que indica el fin?",
+      "opciones": [
+        "Roja",
+        "Negra",
+        "Cuadros",
+        "Verde"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Piloto apodado 'Magic'?",
+      "opciones": [
+        "Lewis Hamilton",
+        "Fernando Alonso",
+        "Charles Leclerc",
+        "Ayrton Senna"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿En qué temporada debutó Max Verstappen?",
+      "opciones": [
+        "2014",
+        "2015",
+        "2013",
+        "2016"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Ciudad que alberga el GP de Mónaco?",
+      "opciones": [
+        "Niza",
+        "Marseille",
+        "Mónaco",
+        "Montecarlo"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Cuántas ruedas tiene un F1?",
+      "opciones": [
+        "6",
+        "4",
+        "2",
+        "3"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Piloto que sobrevivió a un severo accidente en Bahréin 2020?",
+      "opciones": [
+        "Pierre Gasly",
+        "Romain Grosjean",
+        "Lando Norris",
+        "Nico Hulkenberg"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué indica la bandera amarilla?",
+      "opciones": [
+        "Zona de peligro",
+        "Fin de carrera",
+        "Parada obligatoria",
+        "Victoria"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Año debut de Fernando Alonso?",
+      "opciones": [
+        "2001",
+        "2003",
+        "1999",
+        "2005"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Equipo rival de Ferrari históricamente?",
+      "opciones": [
+        "Red Bull",
+        "Mercedes",
+        "McLaren",
+        "Renault"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Piloto con más vueltas rápidas?",
+      "opciones": [
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Valtteri Bottas",
+        "Sebastian Vettel"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Accidente famoso de Senna?",
+      "opciones": [
+        "Suzuka",
+        "Monza",
+        "Imola",
+        "Spa"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Componente clave para la aerodinámica?",
+      "opciones": [
+        "Morro",
+        "Spoiler",
+        "Alerón",
+        "Volante"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Quién regula la F1?",
+      "opciones": [
+        "FIFA",
+        "FIA",
+        "IOC",
+        "FIM"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Piloto más joven en debutar?",
+      "opciones": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Sebastian Vettel",
+        "Charles Leclerc"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuántas carreras puede disputar un motor antes del cambio?",
+      "opciones": [
+        "3",
+        "1",
+        "5",
+        "7"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿¿Quién inventó el DRS?",
+      "opciones": [
+        "FIA",
+        "Ferrari",
+        "Red Bull",
+        "Williams"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Qué piloto rompió récord de victorias en 2023?",
+      "opciones": [
+        "Charles Leclerc",
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Sergio Pérez"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Dónde tiene sede la F1?",
+      "opciones": [
+        "Italia",
+        "Francia",
+        "Reino Unido",
+        "Suiza"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Función del Safety Car?",
+      "opciones": [
+        "Dar ventaja al líder",
+        "Neutralizar carrera",
+        "Ayudar a doblados",
+        "Cambiar neumáticos"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Bandera negra significa?",
+      "opciones": [
+        "Descalificación",
+        "Victoria",
+        "Fin",
+        "Peligro"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Pueden los equipos usar más de dos pilotos por temporada?",
+      "opciones": [
+        "No",
+        "Sí",
+        "Dependiendo de sanciones",
+        "Solo en casos de lesión"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Quién fue el último campeón antes de Hamilton?",
+      "opciones": [
+        "Verstappen",
+        "Rosberg",
+        "Vettel",
+        "Raikkonen"
+      ],
+      "correcta": 4
+    },
+    {
+      "texto": "¿Qué piloto ganó la última carrera de 2024?",
+      "opciones": [
+        "Lando Norris",
+        "Max Verstappen",
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué país está el circuito de Interlagos?",
+      "opciones": [
+        "Argentina",
+        "Brasil",
+        "España",
+        "Portugal"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué piloto tiene récord de poles en Mónaco?",
+      "opciones": [
+        "Hamilton",
+        "Senna",
+        "Balestre",
+        "Prost"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿En qué año debutó el halo?",
+      "opciones": [
+        "2017",
+        "2018",
+        "2016",
+        "2014"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál de estos no ganó campeonato F1?",
+      "opciones": [
+        "Vettel",
+        "Webber",
+        "Button",
+        "Prost"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Qué equipo ganó el Mundial de Constructores 2025?",
+      "opciones": [
+        "McLaren",
+        "Red Bull",
+        "Ferrari",
+        "Mercedes"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿Cuántos motores de combustión (ICE) puede usar un piloto en 2025 sin sanción?",
+      "opciones": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "correcta": 2
+    },
+    {
+      "texto": "¿Cuál es la duración máxima de una carrera sin interrupciones?",
+      "opciones": [
+        "2 horas",
+        "3 horas",
+        "1h 30m",
+        "2h 30m"
+      ],
+      "correcta": 1
+    },
+    {
+      "texto": "¿En qué año se eliminó la regla de empezar con el neumático usado en Q2?",
+      "opciones": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correcta": 3
+    },
+    {
+      "texto": "¿Qué equipo fue aprobado para unirse como 11.º en 2026?",
+      "opciones": [
+        "Cadillac",
+        "Audi",
+        "Porsche",
+        "Andretti"
+      ],
+      "correcta": 1
+    }
+  ]
+}

@@ -139,6 +139,18 @@
       "url": "./tests/historia_real_madrid.json",
       "tags": "fútbol, real madrid, deporte",
       "visible": false
+    },
+    {
+      "id": "Fórmula 1: historia y reglas",
+      "url": "./tests/formula_uno.json",
+      "tags": "deporte, automovil, fórmula",
+      "visible": false
+    },
+    {
+      "id": "NBA: Datos y Récords",
+      "url": "./tests/nba.json",
+      "tags": "deporte, baloncesto, nba",
+      "visible": false
     }
   ]
 }
