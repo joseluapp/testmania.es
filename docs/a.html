@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <title>a - TestMania</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        body {
+            font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+            margin: 2rem;
+        }
+
+        .wrap {
+            display: grid;
+            gap: 1rem;
+            max-width: 420px;
+        }
+
+        button {
+            padding: .7rem 1rem;
+            border-radius: .6rem;
+            border: 1px solid #ccc;
+            cursor: pointer;
+        }
+
+        .ok {
+            background: #e6ffed;
+            border-color: #34c759;
+        }
+
+        .del {
+            background: #fff5f5;
+            border-color: #ff3b30;
+        }
+
+        .estado {
+            padding: .5rem .8rem;
+            border-radius: .5rem;
+            background: #f6f7f8;
+            border: 1px solid #e5e7eb;
+        }
+
+        code {
+            padding: 0 .25rem;
+            background: #f3f4f6;
+            border-radius: .25rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="estado" id="estado" aria-live="polite">
+            Estado actual a: <strong id="valor">—</strong>
+        </div>
+
+        <button class="ok" id="activar">Activar a</button>
+        <button class="del" id="desactivar">Eliminar a</button>
+
+    </div>
+
+    <script>
+        (function () {
+            const estado = document.getElementById("estado");
+            const valorEl = document.getElementById("valor");
+            const activar = document.getElementById("activar");
+            const desactivar = document.getElementById("desactivar");
+
+            function soporteLocalStorage() {
+                try {
+                    const t = "__test__";
+                    localStorage.setItem(t, t);
+                    localStorage.removeItem(t);
+                    return true;
+                } catch (e) {
+                    return false;
+                }
+            }
+
+            function refrescarEstado() {
+                const v = localStorage.getItem("a");
+                valorEl.textContent = v === "OK" ? 'OK (activado)' : '— (desactivado)';
+            }
+
+            if (!soporteLocalStorage()) {
+                estado.textContent = "Este navegador no permite usar localStorage.";
+                activar.disabled = true;
+                desactivar.disabled = true;
+                return;
+            }
+
+            activar.addEventListener("click", () => {
+                localStorage.setItem("a", "OK");
+                refrescarEstado();
+            });
+
+            desactivar.addEventListener("click", () => {
+                localStorage.removeItem("a");
+                refrescarEstado();
+            });
+
+            // Estado inicial
+            refrescarEstado();
+        })();
+    </script>
+</body>
+
+</html>
