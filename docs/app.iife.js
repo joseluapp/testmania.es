@@ -65,7 +65,7 @@ Requisitos:
 - Las preguntas deben ser variadas, claras y alineadas con la temática.
 - Cada pregunta debe tener exactamente 4 opciones. Solo una única opción es la respuesta correcta, contrastada y verificable por fuentes reconocidas.
 - El campo "correcta" es la posición (1-4) de la opción correcta, con una probabilidad del 25% cada una, distribuidas proporcionalmente en un orden no predecible a lo largo del test.
-- Responde exclusivamente con un bloque de código de JSON válido y bien formado, sin comentarios ni texto adicional.
+- Responde exclusivamente con un bloque de código de JSON válido, con sus claves en alfabeto latino, sin errores, sin comentarios ni texto adicional.
 `},Nh=({existentes:o,onCrear:O})=>{const[x,r]=J.useState(""),[D,R]=J.useState(null),[z,V]=J.useState(null),[_,S]=J.useState(""),[M,et]=J.useState(10),[tt,yt]=J.useState("Medio"),[gt,Ut]=J.useState("Trivial"),[jt,X]=J.useState("Español"),[H,B]=J.useState("chatgpt"),ct=`{
   "titulo": "Cultura general",
   "preguntas": [
